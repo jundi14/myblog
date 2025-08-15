@@ -101,16 +101,16 @@ params:
 
   author:
     name: "Jundi Mubarok"
-    title: "A Clean and Minimal Hugo Theme"
-    description: "Focused on content and user experience."
+    title: "Write Stories Share Inspiration"
+    description: "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
     avatar: "/images/avatar.svg"
     social:
       - name: "GitHub"
         url: "https://github.com/username"
         icon: "github"
-      - name: "Twitter"
-        url: "https://twitter.com/username"
-        icon: "twitter"
+      - name: "Instagram"
+        url: "https://instagram.com/jundi.mubarok"
+        icon: "instagram-svgrepo-com"
       - name: "Email"
         url: "mailto:hello@example.com"
         icon: "email"
@@ -124,7 +124,7 @@ params:
   stickyHeader: true  # Set to true to enable sticky navigation bar
 
   # default color scheme
-  colorScheme: "default"
+  colorScheme: "twitter"
   themes:
     default:
       name: "Default"
@@ -169,11 +169,11 @@ params:
   
     license:
       show: true
-      author: "Hugo Narrow"
-      name: "CC BY-NC-SA 4.0"
-      description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
-      url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-      displayName: "CC BY-NC-SA 4.0"
+      author: "Jundi"
+      name: "CC BY-NC 4.0"
+      #description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
+      url: "http://creativecommons.org/licenses/by-nc/4.0/"
+      displayName: "CC BY-NC 4.0"
 
   # comments
   comments:
@@ -308,10 +308,10 @@ codeblock:
 
 readingProgress:
   enabled: true
-  height: 3
+  height: 2
   showOnHomepage: false
   smoothScroll: true
-  hideOnComplete: false
+  hideOnComplete: true
 
 outputs:
   home: ["HTML", "RSS", "JSON", "WebAppManifest"]
