@@ -8,6 +8,7 @@ draft: false  # Whether it's a draft
 categories: ["Coretan"]
 tags: ["opini"]
 slug: "cara-memperbaiki-pola-pikir"  # Custom URL
+cover: "/images/featured.jpg"
 ---
 
 Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita, menentukkan pula apa yang akan kita lakukan berikutnya.

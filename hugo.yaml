@@ -96,7 +96,7 @@ params:
   author:
     name: "Jundi Mubarok"
     title: "Write Stories Share Inspiration"
-    description: "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
+    description: 
     avatar: "/images/avatar.svg"
     social:
       - name: "GitHub"
