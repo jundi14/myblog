@@ -99,9 +99,6 @@ params:
     description: 
     avatar: "/images/avatar.svg"
     social:
-      - name: "GitHub"
-        url: "https://github.com/username"
-        icon: "github"
       - name: "Instagram"
         url: "https://instagram.com/jundi.mubarok"
         icon: "instagram-svgrepo-com"
@@ -158,11 +155,11 @@ params:
     recentPostsCount: 6 # Number of recent posts to show on the home page
 
   post:
-    showRelated: true           # show related posts
+    showRelated: false           # show related posts
     relatedPostsCount: 3        # posts number
   
     license:
-      show: true
+      show: false
       author: "Jundi"
       name: "CC BY-NC 4.0"
       #description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
@@ -171,9 +168,9 @@ params:
 
   # comments
   comments:
-    enabled: false
+    enabled: true
     # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "disqus"
+    system: "waline"
 
     giscus:
       repo: "tom2almighty/hugo-narrow-giscus"
@@ -198,22 +195,16 @@ params:
       theme: "preferred-color-scheme"
 
     waline:
-      serverURL: ""
-      lang: "zh-CN"
+      serverURL: "https://b6bft7rm.api.lncldglobal.com"
+      lang: "en-US"
 
     artalk:
       server: ""
       site: ""
-      locale: "zh-CN" # String|Object|"auto"
+      locale: "en-US" # String|Object|"auto"
       darkMode: "auto"
       gravatar:
         mirror: "https://cravatar.cn/avatar/"
-
-    twikoo:
-      envId: ""
-      region: "ap-shanghai"
-      path: ""
-      lang: "zh-CN"
 
   analytics:
     enabled: false
