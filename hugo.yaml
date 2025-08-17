@@ -102,9 +102,9 @@ params:
       - name: "Instagram"
         url: "https://instagram.com/jundi.mubarok"
         icon: "instagram-svgrepo-com"
-      - name: "Email"
-        url: "mailto:jundimubarok74@gmail.com"
-        icon: "email"
+      - name: "Telegram"
+        url: "https://t.me/jundi.mubarok"
+        icon: "paper-plane-svgrepo-com"  
 
   # UI Components Control
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
@@ -115,7 +115,7 @@ params:
   stickyHeader: true  # Set to true to enable sticky navigation bar
 
   # default color scheme
-  colorScheme: "claude"
+  colorScheme: "nord"
   themes:
     default:
       name: "Default"
@@ -159,17 +159,16 @@ params:
     relatedPostsCount: 3        # posts number
   
     license:
-      show: false
+      show: true
       author: "Jundi"
       name: "CC BY-NC 4.0"
-      #description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
+      description: "Harap cantumkan sumbernya, gunakan untuk tujuan non-komersial, dan pertahankan lisensi yang sama."
       url: "http://creativecommons.org/licenses/by-nc/4.0/"
       displayName: "CC BY-NC 4.0"
 
   # comments
   comments:
-    enabled: false
-    # giscus, disqus, utterances, waline, artalk, twikoo
+    enabled: false  # giscus, disqus, utterances, waline, artalk, twikoo
     system: "waline"
 
     giscus:
