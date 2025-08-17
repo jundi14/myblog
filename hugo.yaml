@@ -168,7 +168,7 @@ params:
 
   # comments
   comments:
-    enabled: true
+    enabled: false
     # giscus, disqus, utterances, waline, artalk, twikoo
     system: "waline"
 
