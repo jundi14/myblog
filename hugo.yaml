@@ -168,21 +168,21 @@ params:
 
   # comments
   comments:
-    enabled: false  # giscus, disqus, utterances, waline, artalk, twikoo
+    enabled: true  # giscus, disqus, utterances, waline, artalk, twikoo
     system: "waline"
 
-    giscus:
-      repo: "tom2almighty/hugo-narrow-giscus"
-      repoId: "R_kgDOO2gwLg"
-      category: "General"
-      categoryId: "DIC_kwDOO2gwLs4CrEaf"
-      mapping: "pathname"
-      strict: "0"
-      reactionsEnabled: "1"
-      emitMetadata: "0"
-      inputPosition: "bottom"
-      theme: "preferred_color_scheme"
-      lang: "en"
+  #  giscus:
+  #    repo: "tom2almighty/hugo-narrow-giscus"
+  #    repoId: "R_kgDOO2gwLg"
+  #    category: "General"
+  #    categoryId: "DIC_kwDOO2gwLs4CrEaf"
+  #    mapping: "pathname"
+  #    strict: "0"
+  #    reactionsEnabled: "1"
+  #    emitMetadata: "0"
+  #    inputPosition: "bottom"
+  #    theme: "preferred_color_scheme"
+  #    lang: "en"
 
     disqus:
       shortname: ""
@@ -197,13 +197,13 @@ params:
       serverURL: "https://b6bft7rm.api.lncldglobal.com"
       lang: "en-US"
 
-    artalk:
-      server: ""
-      site: ""
-      locale: "en-US" # String|Object|"auto"
-      darkMode: "auto"
-      gravatar:
-        mirror: "https://cravatar.cn/avatar/"
+   # artalk:
+   #   server: ""
+   #   site: ""
+   #   locale: "en-US" # String|Object|"auto"
+   #   darkMode: "auto"
+   #   gravatar:
+   #     mirror: "https://cravatar.cn/avatar/"
 
   analytics:
     enabled: false
