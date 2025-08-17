@@ -1,8 +1,6 @@
 ---
-# Required fields
 title: "Pola Pikir Akan Negatif Jika Kamu Belum Melakukan 3 Tips Ini"
 date: 2024-06-02
-# Optional fields
 description:
 draft: false  # Whether it's a draft
 categories: ["Coretan"]
