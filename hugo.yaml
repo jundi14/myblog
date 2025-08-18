@@ -78,26 +78,26 @@ menus:
 
 params:
   # Basic site info with SEO
-  description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
-  keywords: ["Hugo", "Blog", "Theme", "Technology", "Programming"]
+  description: "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
+  keywords: ["Blog", "Personal", "Teknologi"]
   defaultAuthor: "Jundi Mubarok"
   language: "en-US"
   shortName: "Jundi Mubarok"  # PWA
   images:
-  - "/images/og-default.avif"
+  - "/images/android-chrome-512x512.avif"
 
   logo:
-    image: "/images/logo.svg"  # Logo path rel to static folder, leave empty use site title and primary color
+    image: "/images/android-chrome-512x512.png"  # Logo path rel to static folder, leave empty use site title and primary color
     link: "/"                  # click to home page
   favicon:
-    svg: "/favicon.svg"        # SVG format favicon (recommended)
+    svg: "/favicon.ico"        # SVG format favicon (recommended)
 
 
   author:
     name: "Jundi Mubarok"
     title: "Write Stories Share Inspiration"
     description: 
-    avatar: "/images/avatar.svg"
+    avatar: "/images/author-baru.avif"
     social:
       - name: "Instagram"
         url: "https://instagram.com/jundi.mubarok"
@@ -169,7 +169,7 @@ params:
   # comments
   comments:
     enabled: true  # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "waline"
+    system: "disqus"
 
   #  giscus:
   #    repo: "tom2almighty/hugo-narrow-giscus"
@@ -185,7 +185,7 @@ params:
   #    lang: "en"
 
     disqus:
-      shortname: ""
+      shortname: "jundi14"
 
     utterances:
       repo: "" 
