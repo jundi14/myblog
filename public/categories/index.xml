@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/categories/coretan/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Teknologi</title>
+      <link>http://localhost:1313/categories/teknologi/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/teknologi/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

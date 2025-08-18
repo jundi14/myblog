@@ -60,7 +60,7 @@ menus:
       pageRef: /uses
       weight: 20
       params:
-        icon: check
+        icon: folder
     - name: Tags
       pageRef: /tags
       weight: 30
