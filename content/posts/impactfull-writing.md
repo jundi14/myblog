@@ -4,7 +4,7 @@ date: 2024-06-02
 description:
 draft: false  # Whether it's a draft
 categories: ["Coretan"]
-tags: ["opini"]
+tags:
 slug: "cara-memperbaiki-pola-pikir"  # Custom URL
 cover: "/images/impactfull-writing.jpg"
 ---
