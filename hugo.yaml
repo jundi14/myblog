@@ -75,6 +75,12 @@ menus:
       weight: 40
       params:
         icon: email
+    - name: "Support"
+      url: "https://saweria.co/jundimubarok"
+      weightt: 30
+      params:
+        icon: "heart"  
+    
 
 params:
   # Basic site info with SEO
@@ -168,8 +174,8 @@ params:
 
   # comments
   comments:
-    enabled: true  # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "disqus"
+    enabled: false  # giscus, disqus, utterances, waline, artalk, twikoo
+    system: "waline"
 
   #  giscus:
   #    repo: "tom2almighty/hugo-narrow-giscus"
