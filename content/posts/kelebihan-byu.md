@@ -7,7 +7,9 @@ summary: Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya
 date: 2024-09-05
 showComments: true
 showTableOfContents: true
+
 draft: false
+cover: images/kelebihan-byu.jpg
 ---
 
 Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau nggak segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
