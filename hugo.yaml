@@ -110,6 +110,9 @@ params:
       - name: "Telegram"
         url: "https://t.me/jundi.mubarok"
         icon: "telegram"
+      - name: "Bluesky"
+        url: "https://bsky.app/profile/jundi.web.id"
+        icon: "butterfly-svgrepo-com"        
     
   # UI Components Control
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
