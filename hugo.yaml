@@ -22,10 +22,10 @@ languages:
     languageCode: en-US
     languageName: "English"
     weight: 1
-#  zh-cn:
-#    languageCode: zh-CN
-#    languageName: "简体中文"
-#    weight: 2
+  id:
+    languageCode: id-ID
+    languageName: "Indonesian"
+    weight: 2
 
 taxonomies:
   category: categories
@@ -43,11 +43,6 @@ menus:
       weight: 30
       params:
         icon: categories
-    - name: nav.tags
-      pageRef: /tags
-      weight: 40
-      params:
-        icon: tags
     - name: nav.archives
       pageRef: /archives
       weight: 50
@@ -61,16 +56,21 @@ menus:
       weight: 10
       params:
         icon: about
-    - name: Contact
-      url: https://letterbird.co/jundi
+    - name: Uses
+      pageRef: /uses
       weight: 20
       params:
-        icon: contact
+        icon: check
+    - name: Tags
+      pageRef: /tags
+      weight: 30
+      params:
+        icon: tags        
 
   # footer social link
   social:
     - name: Email
-      url: mailto:jundimubarok74@gmail.com
+      url: https://letterbird.co/jundi
       weight: 40
       params:
         icon: email
@@ -109,8 +109,8 @@ params:
         icon: "instagram-svgrepo-com"
       - name: "Telegram"
         url: "https://t.me/jundi.mubarok"
-        icon: "paper-plane-svgrepo-com"  
-
+        icon: "telegram"
+    
   # UI Components Control
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
   showDarkModeSwitch: true   # Set to false to hide dark mode switcher (sun/moon icon)
