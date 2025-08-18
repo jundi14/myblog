@@ -928,74 +928,24 @@
 
 
 
-  <div id="disqus-comments" class="disqus-container">
-    <div id="disqus_thread"></div>
+  <div id="waline-comments" class="waline-container"></div>
 
-    <script>
-      (function() {
-        'use strict';
-
-        
-        var disqus_config = function () {
-          this.page.url = '';
-          this.page.identifier = '';
-          this.page.title = '';
-        };
-
-        
-        function loadDisqus() {
-          var d = document, s = d.createElement('script');
-          s.src = 'https://jundi14.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-        }
-
-        
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', loadDisqus);
-        } else {
-          loadDisqus();
-        }
-      })();
-    </script>
-
-    <noscript>
-      <div class="py-8 text-center">
-        <div
-          class="bg-muted/50 mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full">
-          
-  <svg class="h-6 w-6"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24">
-  <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>
-
-</svg>
-        </div>
-        <h3 class="text-foreground mb-2 text-lg font-medium">
-          需要启用 JavaScript
-        </h3>
-        <p class="text-muted-foreground text-sm">
-          Please enable JavaScript to view the comments.
-        </p>
-        <a
-          href="https://disqus.com/?ref_noscript"
-          class="text-primary hover:text-primary/80 mt-4 inline-flex items-center gap-2 px-4 py-2 text-sm font-medium transition-colors"
-          target="_blank"
-          rel="noopener">
-          由 Disqus 提供支持
-          
-  <svg class="h-4 w-4"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24">
-    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-  </svg>
   
-        </a>
-      </div>
-    </noscript>
-  </div>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+
+  
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline-comments',
+      serverURL: 'https:\/\/waline-system-comment.vercel.app\/',
+      dark: "html[class='dark']",
+      lang: 'en-US',
+    });
+  </script>
 
 </div>
     </div>

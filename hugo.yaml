@@ -174,9 +174,10 @@ params:
   # comments
   comments:
     enabled: true  # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "disqus"
-    disqus:
-      shortname: "jundi14"
+    system: "waline"
+    waline:
+      serverURL: "https://waline-system-comment.vercel.app/"  # Waline server
+      lang: "en-US"                   # language
 
   analytics:
     enabled: false
