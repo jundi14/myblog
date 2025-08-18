@@ -54,7 +54,6 @@ menus:
       params:
         icon: archive
 
-
   # footer menu
   footer:
     - name: About
@@ -63,7 +62,7 @@ menus:
       params:
         icon: about
     - name: Contact
-      url: https://google.com
+      url: https://letterbird.co/jundi
       weight: 20
       params:
         icon: contact
@@ -76,7 +75,7 @@ menus:
       params:
         icon: email
     - name: "Support"
-      url: "https://saweria.co/jundimubarok"
+      url: https://saweria.co/jundimubarok
       weightt: 30
       params:
         icon: "heart"  
@@ -174,54 +173,16 @@ params:
 
   # comments
   comments:
-    enabled: false  # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "waline"
-
-  #  giscus:
-  #    repo: "tom2almighty/hugo-narrow-giscus"
-  #    repoId: "R_kgDOO2gwLg"
-  #    category: "General"
-  #    categoryId: "DIC_kwDOO2gwLs4CrEaf"
-  #    mapping: "pathname"
-  #    strict: "0"
-  #    reactionsEnabled: "1"
-  #    emitMetadata: "0"
-  #    inputPosition: "bottom"
-  #    theme: "preferred_color_scheme"
-  #    lang: "en"
-
+    enabled: true  # giscus, disqus, utterances, waline, artalk, twikoo
+    system: "disqus"
     disqus:
       shortname: "jundi14"
 
-    utterances:
-      repo: "" 
-      issueTerm: "pathname"
-      label: "comment"
-      theme: "preferred-color-scheme"
-
-    waline:
-      serverURL: "https://b6bft7rm.api.lncldglobal.com"
-      lang: "en-US"
-
-   # artalk:
-   #   server: ""
-   #   site: ""
-   #   locale: "en-US" # String|Object|"auto"
-   #   darkMode: "auto"
-   #   gravatar:
-   #     mirror: "https://cravatar.cn/avatar/"
-
   analytics:
     enabled: false
-    baidu:
-      enabled: false
-      id: "your-baidu-analytics-id"
-    clarity:
-      enabled: false
-      analytics: "your-clarity-analytics-id"
     google:
-      enabled: false
-      id: "your-google-analytics-id"
+    enabled: false
+    id: "your-google-analytics-id"
     umami: 
       enabled: false
       id: "your-umami-website-id"
