@@ -4,4 +4,7 @@ content:
     path: content/posts/
     type: collection
     fields:
+     - name: cover
+       label: Cover Image
+       type: image
       # ... fields defined here ...
