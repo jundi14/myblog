@@ -1,0 +1,7 @@
+content:
+  - name: posts
+    label: Posts
+    path: src/_posts
+    type: collection
+    fields:
+      # ... fields defined here ...
