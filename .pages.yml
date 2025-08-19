@@ -7,4 +7,7 @@ content:
      - name: title
        label: Judul Artikel
        type: string
+     - name: content
+       label: Text Content
+       type: rich-text
       # ... fields defined here ...
