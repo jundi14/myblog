@@ -1,0 +1,33 @@
+media:
+  input: assets/images/
+  output: public/
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: 'content/posts/'
+    view:
+      fields: [title, description, categories, tags, image, draft]
+    fields:
+      - name: title
+        label: Judul
+        type: string
+      - name: description
+        label: Deskripsi
+        type: text
+      - name: categories
+        label: Kategori
+        type: string
+      - name: tags
+        label: Tag
+        type: string
+      - name: cover
+        label: Gambar Cover
+        type: string
+      - name: draft
+        label: draft
+        type: boolean
+        default: true
+      - name: body
+        label: Isi Artikel
+        type: rich-text
