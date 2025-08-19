@@ -25,7 +25,7 @@ content:
         label: Gambar Cover
         type: image
         options:
-          path: ./assets/images
+          path: ./assets/images/
           extensions: [jpg, png, jpeg]
       - name: draft
         label: draft
