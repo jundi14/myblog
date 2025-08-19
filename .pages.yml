@@ -20,7 +20,7 @@ content:
         type: string
       - name: tags
         label: Tag
-        type: text
+        type: string
       - name: cover
         label: Gambar Cover
         type: cover
