@@ -23,7 +23,7 @@ content:
         type: text
       - name: cover
         label: Gambar Cover
-        type: image
+        type: cover
       - name: body
         label: Isi Artikel
         type: rich-text
