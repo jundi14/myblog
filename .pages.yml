@@ -23,7 +23,7 @@ content:
         type: string
       - name: cover
         label: Gambar Cover
-        type: cover
+        type: image
          options:
           path: assets/images
           extensions: [jpg, png, jpeg]
