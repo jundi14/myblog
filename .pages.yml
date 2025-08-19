@@ -1,6 +1,6 @@
 media:
-  input: media
-  output: media
+  input: assets/images/
+  output: public/
 content:
   - name: posts
     label: Blog Posts
@@ -15,7 +15,7 @@ content:
       - name: description
         label: Deskripsi
         type: text
-      - name: category
+      - name: categories
         label: Kategori
         type: string
       - name: tags
