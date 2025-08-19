@@ -7,7 +7,7 @@ content:
     type: collection
     path: 'content/posts/'
     view:
-      fields: [title, description, categories, tags, cover, draft]
+      fields: [title, description, date, categories, tags, cover, draft]
     fields:
       - name: title
         label: Judul
@@ -15,6 +15,9 @@ content:
       - name: description
         label: Deskripsi
         type: text
+      - name: date
+        label: Date
+        type: date
       - name: categories
         label: Kategori
         type: select
