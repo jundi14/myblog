@@ -17,7 +17,9 @@ content:
         type: text
       - name: categories
         label: Kategori
-        type: string
+        type: select
+          option:
+            values:[Teknologi, Coretan, Blogging]
       - name: tags
         label: Tag
         type: text
