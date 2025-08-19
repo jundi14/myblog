@@ -10,6 +10,6 @@ content:
      - name: text
        label: article
        fields:
-         - name: content
-           label: Isi artikel
-           type: rich-text
+        - name: description
+          label: Description
+          type: rich-text
