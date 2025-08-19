@@ -2,73 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/kartu-byu-aktif-tanpa-batas/</loc>
+    <loc>http://localhost:51474/posts/kartu-byu-aktif-tanpa-batas/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:51474/categories/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/categories/"
+                href="http://localhost:51474/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:51474/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:51474/posts/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/teknologi/</loc>
+    <loc>http://localhost:51474/categories/teknologi/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/coretan/</loc>
+    <loc>http://localhost:51474/categories/coretan/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/opini/</loc>
+    <loc>http://localhost:51474/posts/cara-memperbaiki-pola-pikir/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cara-memperbaiki-pola-pikir/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id-ID"
-                href="http://localhost:1313/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:51474/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
-                href="http://localhost:1313/id/"
+                href="http://localhost:51474/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="http://localhost:51474/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/apa-itu-nft/</loc>
+    <loc>http://localhost:51474/posts/apa-itu-nft/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apa-itu-metaverse/</loc>
+    <loc>http://localhost:51474/posts/apa-itu-metaverse/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:51474/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:51474/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/uses/</loc>
+    <loc>http://localhost:51474/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id-ID"
+                href="http://localhost:51474/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:51474/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:51474/uses/</loc>
   </url>
 </urlset>

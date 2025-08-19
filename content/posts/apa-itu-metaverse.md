@@ -4,7 +4,7 @@ slug: Apa itu metaverse
 description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
 date: 2021-12-05
 categories: ["Teknologi"]
-cover: "images/apa-itu-metaverse.jpg"
+cover: "assets/images/apa-itu-metaverse.jpg"
 
 ---
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
