@@ -8,8 +8,8 @@ content:
        label: Judul Artikel
        type: string
      - name: text
-       label: Add Text Block
+       label: article
        fields:
          - name: content
-           label: Text Content
+           label: Isi artikel
            type: rich-text
