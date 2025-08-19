@@ -7,7 +7,7 @@ content:
     type: collection
     path: 'content/posts/'
     view:
-      fields: [title, description, category, tags, cover, draft]
+      fields: [title, description, categories, tags, cover, draft]
     fields:
       - name: title
         label: Judul
@@ -24,7 +24,7 @@ content:
       - name: cover
         label: Gambar Cover
         type: image
-         options:
+        options:
           path: assets/images
           extensions: [jpg, png, jpeg]
       - name: draft
