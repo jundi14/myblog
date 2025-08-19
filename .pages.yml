@@ -23,7 +23,7 @@ content:
         type: string
       - name: cover
         label: Gambar Cover
-        type: image
+        type: string
       - name: draft
         label: draft
         type: boolean
