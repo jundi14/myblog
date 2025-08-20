@@ -5,7 +5,7 @@ content:
   - name: page
     label: Page
     type: collection
-    path: 'content'
+    path: "content"
     view:
       fields: [title, slug, description, draft, comment]
     fields:
@@ -35,7 +35,7 @@ content:
   - name: posts
     label: Blog Posts
     type: collection
-    path: 'content/posts'
+    path: "content/posts"
     view:
       fields: [title, description, date, categories, tags, cover, draft, comment]
     fields:
