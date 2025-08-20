@@ -34,7 +34,7 @@ content:
         type: boolean
         default: true
       - name: comment
-        label: Comment
+        label: Aktifkan Komentar
         type: boolean
         default: true
       - name: body
