@@ -50,15 +50,7 @@ content:
         type: date
       - name: categories
         label: Kategori
-        type: select
-        options:
-          values:
-           - value: ['Teknologi']
-             label: Teknologi
-           - value: ['Coretan']
-             label: Coretan
-           - value: ['Blogging']
-             label: Blogging
+        type: string
       - name: tags
         label: Tag
         type: string
