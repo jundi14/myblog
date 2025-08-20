@@ -22,10 +22,10 @@ content:
         label: Draft
         type: boolean
         default: false
-      - name: comment
+      - name: comments
         label: Aktifkan Komentar
         type: boolean
-        default: true
+        default: false
       - name: body
         label: Artikel
         type: rich-text
@@ -66,7 +66,7 @@ content:
         label: Draft
         type: boolean
         default: true
-      - name: comment
+      - name: comments
         label: Aktifkan Komentar
         type: boolean
         default: true
