@@ -58,6 +58,9 @@ content:
         options:
            values:
            - value: ['Teknologi']
+             label: Teknologi
+           - value: ['Coretan']
+             label: Coretan
       - name: tags
         label: Tag
         type: string
