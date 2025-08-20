@@ -7,7 +7,7 @@ content:
     type: collection
     path: 'content/posts/'
     view:
-      fields: [title, description, date, categories, tags, cover, draft]
+      fields: [title, description, date, categories, tags, cover, draft, comment]
     fields:
       - name: title
         label: Judul
