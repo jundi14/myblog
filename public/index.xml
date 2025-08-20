@@ -41,7 +41,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;siapa-saya&#34;&gt;Siapa Saya&lt;/h2&gt;&#xA;&lt;p&gt;Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini.&lt;/p&gt;&#xA;&lt;p&gt;Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.&lt;/p&gt;&#xA;&lt;p&gt;Dalam keseharian, saya bekerja sebagai Operator Sekolah.&lt;/p&gt;&#xA;&lt;p&gt;Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!).&lt;/p&gt;&#xA;&lt;p&gt;Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;siapa-saya&#34;&gt;Siapa Saya&lt;/h2&gt;&#xA;&lt;p&gt;Halo nama saya Jundi, dan saya senang kamu mampir ke halaman ini.&lt;/p&gt;&#xA;&lt;p&gt;Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu menemukannya menarik) tentang saya.&lt;/p&gt;&#xA;&lt;p&gt;Dalam keseharian, saya bekerja sebagai Operator Sekolah.&lt;/p&gt;&#xA;&lt;p&gt;Saya sangat menyukai bidang yang berkaitan tentang website (saya masih belajar, hanya tertarik!).&lt;/p&gt;&#xA;&lt;p&gt;Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blogroll</title>
+      <link>http://localhost:1313/blogroll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogroll/</guid>
+      <description>&lt;p&gt;Berikut linknya:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kev Quirk&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Uses</title>

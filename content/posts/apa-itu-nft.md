@@ -4,8 +4,7 @@ slug: Apa itu nft
 description: NFT menjadi bahan perbincangan hampir di setiap belahan negara,
   mari kita simak pembahasannya.
 date: 2021-12-05
-categories:
-  - Teknologi
+categories: ["Teknologi"]
 cover: /images/apa-itu-nft.jpg
 draft: false
 comments: true

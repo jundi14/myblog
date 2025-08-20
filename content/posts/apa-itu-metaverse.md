@@ -1,6 +1,9 @@
 ---
 title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 slug: Apa itu metaverse
+date: 2021-12-05
+categories: ["Teknologi"]
+cover: /images/apa-itu-metaverse.jpg
 description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
 draft: false
 comments: true
