@@ -57,6 +57,7 @@ content:
         type: select
         options:
           creatable: true
+          multiple: true
           values:
            - value: ['Teknologi']
              label: Teknologi
