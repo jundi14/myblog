@@ -46,13 +46,14 @@
     <loc>http://localhost:1313/posts/apa-itu-nft/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/apa-itu-metaverse/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/blogroll/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/apa-itu-metaverse/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
