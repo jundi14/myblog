@@ -4,7 +4,7 @@ slug: cara-memperbaiki-pola-pikir
 date: 2024-06-02
 categories:
   - Coretan
-tags: opini
+tags: opini, pendapat
 cover: /images/impactfull-writing.jpg
 draft: false
 comments: true
