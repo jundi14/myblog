@@ -65,7 +65,6 @@ content:
           label: Coretan
         - value: ["Blogging"]
           label: Blogging
-        default: ["Teknologi"]
       - name: tags
         label: Tag
         type: string
