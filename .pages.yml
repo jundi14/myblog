@@ -64,9 +64,6 @@ content:
              label: Coretan
            - value: ['Blogging']
              label: Blogging
-      - name: tags
-        label: Tag
-        type: string
       - name: cover
         label: Gambar Cover
         type: image
