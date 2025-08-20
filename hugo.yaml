@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://myblog-phi-eosin.vercel.app/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -61,11 +61,11 @@ menus:
       weight: 20
       params:
         icon: folder
-    - name: Tags
-      pageRef: /tags
+    - name: Blogroll
+      pageRef: /blogroll
       weight: 30
       params:
-        icon: tags   
+        icon: list  
 
   # footer social link
   social:
