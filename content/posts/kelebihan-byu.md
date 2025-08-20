@@ -4,7 +4,8 @@ slug: kartu byu aktif tanpa batas
 description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
   perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang
 date: 2024-09-05
-categories: [Teknologi]
+categories:
+  - Teknologi
 cover: /images/kelebihan-byu.jpg
 draft: false
 comment: true
