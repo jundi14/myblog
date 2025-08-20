@@ -53,11 +53,11 @@ content:
         type: select
         options:
           values:
-            -value: Teknologi
+           - value: Teknologi
              label: Teknologi
-            -value: Coretan
+           - value: Coretan
              label: Coretan
-            -value: Blogging
+           - value: Blogging
              label: Blogging
       - name: tags
         label: Tag
