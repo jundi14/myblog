@@ -54,7 +54,7 @@ content:
         type: date
       - name: categories
         label: Kategori
-        type: code
+        type: string
         options:
            language: yaml
       - name: tags
