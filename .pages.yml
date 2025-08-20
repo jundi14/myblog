@@ -1,6 +1,6 @@
 media:
-  input: assets/images/
-  output: public/
+  input: assets/images
+  output: public
 content:
   - name: page
     label: Page
@@ -52,7 +52,7 @@ content:
         label: Kategori
         type: select
         options:
-          values: [ Teknologi, Coretan, Blogging ]
+          values: [ "Teknologi", "Coretan", "Blogging" ]
       - name: tags
         label: Tag
         type: string
