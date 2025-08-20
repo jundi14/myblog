@@ -57,7 +57,7 @@ content:
       - name: categories
         label: Kategori
         type: select
-        multiple: true
+        multiple: false
         options:
         values:
         - value: ["Teknologi"]
