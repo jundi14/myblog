@@ -3,7 +3,7 @@ title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 slug: Apa itu metaverse
 description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
 draft: false
-comments: false
+comments: true
 ---
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
 
