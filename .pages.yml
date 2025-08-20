@@ -56,12 +56,14 @@ content:
         label: Kategori
         type: select
         options:
-          multiple: true
+          multiple: false
           values:
            - value: ['Teknologi']
              label: Teknologi
            - value: ['Coretan']
              label: Coretan
+           - value: ['Blogging']
+             label: Blogging
       - name: tags
         label: Tag
         type: string
