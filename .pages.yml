@@ -65,7 +65,7 @@ content:
         type: image
         option:
           media: 
-            input: assets/images
+            input: assets/images/
       - name: draft
         label: Draft
         type: boolean
