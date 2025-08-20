@@ -4,11 +4,12 @@ slug: Apa itu nft
 description: NFT menjadi bahan perbincangan hampir di setiap belahan negara,
   mari kita simak pembahasannya.
 date: 2021-12-05
-categories: ["Teknologi"]
+categories: [Teknologi]
 cover: /images/apa-itu-nft.jpg
 draft: false
 comment: true
 ---
+
 Di era saat ini kepemilikan aset digital merupakan salah satu trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama, aset digital yang cukup populer saat ini adalah mata uang kripto, seperti Bitcoin, Ethereum, Litecoin, Ripple, dan lain-lain.
 
 Namun, di antara aset kripto ini ada fenomena yang cukup menarik, yaitu munculnya **NFT (_Non-Fungible Token_)**. NFT ini menjadi viral akibat penjualannya yang bernilai fantastis.
