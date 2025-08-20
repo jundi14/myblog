@@ -64,7 +64,7 @@ content:
               label: Teknologi
             - value: "Coretan"
               label: Coretan
-            - value: "Blogging]
+            - value: "Blogging"
               label: Blogging
       - name: tags
         label: Tag
