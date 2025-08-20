@@ -7,7 +7,7 @@ content:
     type: collection
     path: 'content'
     view:
-      fields: [title, description, cover, draft, comment]
+      fields: [title, slug, description, cover, draft, comment]
     fields:
       - name: title
         label: Judul
@@ -18,6 +18,17 @@ content:
       - name: description
         label: Deskripsi
         type: text
+      - name: draft
+        label: draft
+        type: boolean
+        default: true
+      - name: comment
+        label: Aktifkan Komentar
+        type: boolean
+        default: true
+      - name: body
+        label: Isi Artikel
+        type: rich-text
   - name: posts
     label: Blog Posts
     type: collection
