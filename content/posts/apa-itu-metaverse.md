@@ -1,11 +1,12 @@
 ---
-title: 'Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya'
+title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 slug: Apa itu metaverse
 description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
 date: 2021-12-05
-categories: ["Teknologi"]
-cover: "images/apa-itu-metaverse.jpg"
-
+categories: Coretan
+cover: images/apa-itu-metaverse.jpg
+draft: false
+comment: true
 ---
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
 
@@ -13,20 +14,7 @@ Khusus untuk Facebook, memang sekarang ini menjadi media sosial yang banyak digu
 
 Perusahaan ini juga menyatakan bahwa sedang mengerjakan konsep untuk membuat metaverse di dunia online. Apa maksud dari metaverse, apa yang diuntungkan, kelebihan dan kekurangan apa, serta perusahaan apa saja yang sudah mengembangkannya? Akan dibahas dalam artikel.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 ## Apa Pengertian Dari Metaverse?
 
@@ -60,20 +48,7 @@ Selanjutnya, teknologi virtual metaverse ini juga bisa membawa tantangan dari se
 
 Metaverse juga dianggap bisa membawa resiko keamanan di dunia cyber. Nama Facebook yang berganti menjadi Meta nantinya akan menjalankan algoritma serta kecerdasan artifisial dan menjadi dewa raksasa palsu. Ini dianggap akan menciptakan hubungan tidak sehat serta parasosial.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 ## Siapa Yang Diuntungkan dan Bagaimana Perusahaan Merespon Metaverse?
 
@@ -85,7 +60,7 @@ Perusahaan Facebook mengganti namanya menjadi Meta pada 29 Oktober lalu. Aplikas
 
 ### SoftBank
 
-SoftBank Vision Fund 2 yang merupakan anak usaha SoftBank menyuntikkan modal untuk Sandbox. Dalam startup ini, memungkinkan para pemainnya membangun, serta memonetisasi pengalaman bermain game secara virtual pada jaringan blockchain ethereum. Mereka dapat memakai[ token non-fungible (NFT)](https://jundi.web.id/posts/apa-itu-nft/).
+SoftBank Vision Fund 2 yang merupakan anak usaha SoftBank menyuntikkan modal untuk Sandbox. Dalam startup ini, memungkinkan para pemainnya membangun, serta memonetisasi pengalaman bermain game secara virtual pada jaringan blockchain ethereum. Mereka dapat memakai [token non-fungible (NFT)](https://jundi.web.id/posts/apa-itu-nft/).
 
 Saham Sandbox mayoritas dimiliki pengembang Animoca Brands. Bagi SoftBank, hal tersebut merupakan langkah pertama kalinya berinvestasi pada perusahaan yang mencetak cryptocurrency sendiri. Kapitalisasi sandbox juga hampir menyentuh 2 miliar dolar. Mereka memiliki sekitar 22% token sekarang ini.
 
@@ -116,17 +91,5 @@ Di dunia game, perusahaan raksasa asal Tiongkok juga mengajukan pendaftaran untu
 Induk perusahaan Tik Tok tersebut juga berencana untuk melakukan pengembangan teknologi metaverse. Salah satu langkahnya yaitu dengan mengakui sasi startup bernama VR Pico Interactive. Kesepakatan yang dibuat nilai yang hampir 5 miliar yuan atau 11 triliun rupiah. Dengan akuisisi tersebut, Pico Interactive akan berfokus di pasar Cina sambil mempertahankan juga sebagian besar stafnya.
 
 Meskipun masih menuai pro dan kontra, proyek metaverse yang direncanakan Facebook dan sejumlah perusahaan lainnya, bukan tidak mungkin segera menjadi kenyataan. Kita tunggu saja perkembangannya dan bagaimana inovasi-inovasi yang tercipta.
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
