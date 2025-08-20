@@ -2,10 +2,26 @@ media:
   input: assets/images/
   output: public/
 content:
+  - name: page
+    label: Page
+    type: collection
+    path: 'content'
+    view:
+      fields: [title, description, cover, draft, comment]
+    fields:
+      - name: title
+        label: Judul
+        type: string
+      - name: slug
+        label: Custom URL
+        type: string
+      - name: description
+        label: Deskripsi
+        type: text
   - name: posts
     label: Blog Posts
     type: collection
-    path: 'content/posts/'
+    path: 'content/posts'
     view:
       fields: [title, description, date, categories, tags, cover, draft, comment]
     fields:
@@ -46,20 +62,4 @@ content:
       - name: body
         label: Isi Artikel
         type: rich-text
-content:
-   - name: page
-     label: Page
-     type: collection
-     path: 'content/'
-     view:
-      fields: [title, description, cover, draft, comment]
-     fields:
-      - name: title
-        label: Judul
-        type: string
-      - name: slug
-        label: Custom URL
-        type: string
-      - name: description
-        label: Deskripsi
-        type: text
+
