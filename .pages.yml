@@ -17,7 +17,10 @@ content:
         type: string
       - name: description
         label: Meta Deskripsi
-        type: string
+        type: text
+        options:
+         minlength: 50
+         maxlength: 160
       - name: draft
         label: Draft
         type: boolean
@@ -45,12 +48,25 @@ content:
       - name: description
         label: Meta Deskripsi
         type: text
+        options:
+         minlength: 50
+         maxlength: 160
       - name: date
         label: Date
         type: date
       - name: categories
         label: Kategori
-        type: string
+        type: select
+        multiple: true
+        options:
+        values:
+        - value: "Teknologi"
+          label: Teknologi
+        - value: "Coretan"
+          label: Coretan
+        - value: "Blogging"
+          label: Blogging
+        default: ["Teknologi"]
       - name: tags
         label: Tag
         type: string
