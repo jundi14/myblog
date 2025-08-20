@@ -57,7 +57,7 @@ content:
         type: select
         options:
            values:
-           - value: [Teknologi']
+           - value: ['Teknologi']
       - name: tags
         label: Tag
         type: string
