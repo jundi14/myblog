@@ -2,7 +2,7 @@
 title: About
 slug: about
 draft: false
-comment: false
+comments: false
 ---
 ## Siapa Saya
 
