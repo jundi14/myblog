@@ -31,7 +31,10 @@ content:
         type: string
       - name: cover
         label: Gambar Cover
-        type: string
+        type: image
+        option:
+          media: assets
+          categories: images
       - name: draft
         label: draft
         type: boolean
