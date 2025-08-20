@@ -12,7 +12,7 @@ Mari kita mulai dengan beberapa fakta menarik (atau setidaknya, saya harap kamu 
 
 Dalam keseharian, saya bekerja sebagai Operator Sekolah.
 
-Saya sangat menyukai bidang yang berkaitan tentang website (sampai saat ini saya masih belajar, hanya tertarik!).
+Saya sangat menyukai bidang yang berkaitan tentang website (saya masih belajar, hanya tertarik!).
 
 Saya memiliki ketertarikan di dunia website statis, sampai saat ini saya menggunakan layanan dari Hugo yang cepat tanpa harus memuat database.
 
