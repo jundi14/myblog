@@ -36,7 +36,7 @@ content:
     type: collection
     path: "content/posts"
     view:
-      fields: [title, description, date, categories, tags, cover, draft, comment]
+      fields: [title, description, date, categories, cover, draft, comment]
     fields:
       - name: title
         label: Judul
@@ -64,9 +64,6 @@ content:
              label: Coretan
            - value: ['Blogging']
              label: Blogging
-      - name: tags
-        label: Tag
-        type: string
       - name: cover
         label: Gambar Cover
         type: image
