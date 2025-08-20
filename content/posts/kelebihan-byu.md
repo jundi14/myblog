@@ -1,25 +1,21 @@
 ---
-title: 7 Kelebihan Kartu by.U Yang Memiliki Masa Aktif Tanpa Batas 
+title: 7 Kelebihan Kartu by.U Yang Memiliki Masa Aktif Tanpa Batas
 slug: kartu byu aktif tanpa batas
-description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang 
-categories: [Teknologi]
-summary: Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk anak muda dan pilihan paket internet yang berbeda pula pastinya.
+description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
+  perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang
 date: 2024-09-05
-showComments: true
-showTableOfContents: true
-
-draft: false
+categories: Teknologi
 cover: images/kelebihan-byu.jpg
+draft: false
+comment: true
 ---
-
 Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau nggak segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
 
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
 ![by.U](/images/posts/kelebihan-byu/by.u.jpg)
 
-Sama seperti halnya M-BCA dengan Blu BCA, masih satu perusahaan tapi untuk target yang berbeda.
-M-BCA menampilkan fitur yang sering digunakan dan sederhana dan Blu BCA dengan fitur kekinian dan modern.
+Sama seperti halnya M-BCA dengan Blu BCA, masih satu perusahaan tapi untuk target yang berbeda. M-BCA menampilkan fitur yang sering digunakan dan sederhana dan Blu BCA dengan fitur kekinian dan modern.
 
 Sudah hampir 5 tahun lamanya, dimulai dari 26 Desember 2019, ketika melihat salah satu adik kelas saya menggunakan kartu yang kala itu belum lama diluncurkan, yaitu pada tanggal 17 September 2019.
 
@@ -33,10 +29,10 @@ Ada beberapa alasan hingga akhirnya saya memutuskan untuk migrasi ke by.U, apa i
 
 Serius, kita hanya disuruh memilih pilihan paket internet pada aplikasi dan tidak ada syarat harus membeli kuota yang besar, bahkan bisa memilih paket internet yang paling kecil dan tinggal ketikkan alamat kita dan submit. DONE.
 
-Ya sesimpel itu.\
+Ya sesimpel itu.  
 Kartu dikirim dari Jakarta kalau tidak salah, dan kartu datang ke rumah dalam tempo 2 hari, lumayan cepat menurut saya, jika membandingkan dengan barang yang saya beli barang di marketplace, bisa sampai 3 hari bahkan lebih, padahal titik pengantaran dari kota besar, bahkan lebih dekat.
 
-Ya tapi itu dulu 😂, semoga sekarang masih free ongkir. 
+Ya tapi itu dulu 😂, semoga sekarang masih free ongkir.
 
 Kalau saya cek di aplikasi, ketika pengajuan kartu hilang/rusak ada pilihan "SIM Card diantar" pengirimannya menggunakan JNE dan ada biaya flat sebesar Rp 10.000 ke semua tujuan (kecuali wilayah NTT, Papua, dan Maluku saat ini masih belum bisa).
 
@@ -66,7 +62,7 @@ Kartu sim by.U ini nggak punya yang namanya pembagian kuota lokal dan nasional, 
 
 ![Kuota 24 Jam by.U](/images/posts/kelebihan-byu/kuota-24-jam.jpg "Kuota 24 Jam Tanpa Pembagian")
 
-Jadi semua kuotanya 24 jam.\
+Jadi semua kuotanya 24 jam.  
 Kalau untuk harga relatif, mau dibandingkan dengan apa dulu, kalau dibandingkan dengan telkomsel, jauh lebih murah.
 
 ![Pilihan Paket Internet by.U](/images/posts/kelebihan-byu/pilihan-paket.jpg "Salah satu pilihan paket by.U")
@@ -89,8 +85,8 @@ Ketika kita mengakses U-tainment juga akan mendapatkan U-stamp yang bisa ditukar
 
 ![Penukaran U-stamp by.U](/images/posts/kelebihan-byu/tukar-u-stamp.jpg "Tukar U-stamp")
 
-Asik kan?\
-Walaupun saya ngga ngga pernah mengumpulkan U-stamp untuk mendapatkan bonusnya. 
+Asik kan?  
+Walaupun saya ngga ngga pernah mengumpulkan U-stamp untuk mendapatkan bonusnya.
 
 Terkadang saya suka baca komik, tidak banyak U-stamp yang didapat, jadi belum cukup untuk ditukarkan. Ya U-tainmet by.U punya komik 😃.
 
@@ -104,19 +100,19 @@ Gimana, cukup fleksibel bukan?
 
 ### Hadiah Kuota
 
-Ada hadiah kuota setelah 3 bulan pemakaian, 6 bulan dan 1 tahun.\
+Ada hadiah kuota setelah 3 bulan pemakaian, 6 bulan dan 1 tahun.  
 Bonus tersebut berlaku di tahun pertama saja yaa..
 
 Ditambah lagi ada bonus kuota tambahan tepat di hari ulang tahun kamu, jadi jangan lupa masukkan tanggal lahir di profile by.U kamu, dan lagi lagi... hanya berlaku di tahun pertama saja yaa, ngga tiap tahun dapat. hehe 😁
 
 Ada tambahan kuota juga 🤑2 GB buat 7 hari🤑 buat kamu kalo gabung by.U dengan klik tombol dibawah ini.
 
-https://www.byu.id/v2/referral?code=BYJUND6411499&action=referral&type=referral
-🥳 Kuotanya utuh gak dibagi-bagi aturan ini itu\
-🚀 Internetan ngebut pake Sinyal No 1 Telkomsel\
+[https://www.byu.id/v2/referral?code=BYJUND6411499&action=referral&type=referral](https://www.byu.id/v2/referral?code=BYJUND6411499&action=referral&type=referral) 🥳 Kuotanya utuh gak dibagi-bagi aturan ini itu  
+🚀 Internetan ngebut pake Sinyal No 1 Telkomsel  
 🎁 Hadiah kuota monthiversary dan tiap tanggal ulang tahun
 
-***
+* * *
+
 ## Kekurangan by.U
 
 Sudah pasti dong ada kekurangan yang saya rasakan selama menggunakan provider by.U, ngga akan mungkin sempurna selama masih di dunia 😆.
@@ -135,7 +131,7 @@ Nah pernah suatu saat kartu dikeluarkan dari smartphone dan hilang.
 
 Akhirnya saya coba untuk klaim penggantian dengan kartu yang baru di aplikasi untuk diganti dengan kartu nomor yang sama, tetapi dibutuhkan KTP untuk proses penggantian kartu baru.
 
-Tapi saat itu istri sedang proses cetak KTP -*entah kenapa di daerah sini prosesnya sangat lama, sampai berbulan-bulan*- karena pindah domisili.
+Tapi saat itu istri sedang proses cetak KTP -_entah kenapa di daerah sini prosesnya sangat lama, sampai berbulan-bulan_\- karena pindah domisili.
 
 Pada akhirnya menggunakan aplikasi IKDN dan KTP yang ada disana difoto dan diupload ke aplikasi sebagai syarat untuk ganti kartu sim.
 
@@ -143,13 +139,14 @@ Sebenarnya saya ragu karena yang difoto bukan KTP fisik, tapi setidaknya bisa di
 
 Di aplikasi disebutkan bahwa maksimal akan diproses dalam waktu 24 jam, tetapi setelah 24 jam ternyata belum ada info terkait diterima ataupun ditolak klaim penggantian kartu sim ini.
 
-Lalu saya coba chat Nindy -*bot milik by.U*- dan kata Nindy di data mereka tidak terdeteksi bahwa saya melakukan klaim ganti kartu dan disuruh mengisi isian berikut
+Lalu saya coba chat Nindy -_bot milik by.U_\- dan kata Nindy di data mereka tidak terdeteksi bahwa saya melakukan klaim ganti kartu dan disuruh mengisi isian berikut
 
 ![Asistant Virtual by.U Nindy](/images/posts/kelebihan-byu/help-chat.jpg)
 
 Bisa jadi memang ada bugs yang ada pada aplikasi by.U ini, kedepannya akan saya coba mengisi data yang dikirim oleh Nindy.
 
-***
+* * *
+
 Cukup sampai sini yang bisa saya tulis, jika ada update akan saya ubah jika diperlukan.
 
 Terima kasih sudah membaca tulisan ini, semoga bermanfaat 😃
