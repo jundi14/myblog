@@ -54,7 +54,15 @@ content:
         type: date
       - name: categories
         label: Kategori
-        type: string
+        type: select
+        options:
+           values:
+            - value: [Teknologi]
+              label: Teknologi
+            - value: [Coretan]
+              label: Coretan
+            - value: [Blogging]
+              label: Blogging
       - name: tags
         label: Tag
         type: string
