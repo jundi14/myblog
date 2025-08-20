@@ -60,9 +60,12 @@ content:
         multiple: true
         options:
           values:
-          - "Teknologi"
-          - "Tutorial"
-          - "Lifestyle"
+            value: '["Teknologi"]'
+            label: Teknologi
+            value: '["Coretan"]'
+            label: Coretan
+            value: '["Blogging"]'
+            label: Blogging
       - name: tags
         label: Tag
         type: string
