@@ -17,7 +17,7 @@ content:
         type: string
       - name: description
         label: Deskripsi
-        type: text
+        type: string
       - name: draft
         label: draft
         type: boolean
