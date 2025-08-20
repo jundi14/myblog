@@ -10,16 +10,16 @@ content:
       fields: [title, slug, description, draft, comment]
     fields:
       - name: title
-        label: Judul
+        label: Judul Artikel
         type: string
       - name: slug
         label: Custom URL
         type: string
       - name: description
-        label: Deskripsi
+        label: Meta Deskripsi
         type: string
       - name: draft
-        label: draft
+        label: Draft
         type: boolean
         default: false
       - name: comment
@@ -27,7 +27,7 @@ content:
         type: boolean
         default: true
       - name: body
-        label: Isi Artikel
+        label: Artikel
         type: rich-text
   - name: posts
     label: Blog Posts
@@ -43,7 +43,7 @@ content:
         label: Custom URL
         type: string
       - name: description
-        label: Deskripsi
+        label: Meta Deskripsi
         type: text
       - name: date
         label: Date
@@ -63,7 +63,7 @@ content:
           media: 
             input: assets/images
       - name: draft
-        label: draft
+        label: Draft
         type: boolean
         default: true
       - name: comment
