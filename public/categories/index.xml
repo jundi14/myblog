@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jundi Mubarok</title>
-    <link>http://localhost:54606/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Jundi Mubarok</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54606/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teknologi</title>
-      <link>http://localhost:54606/categories/teknologi/</link>
+      <link>http://localhost:1313/categories/teknologi/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54606/categories/teknologi/</guid>
+      <guid>http://localhost:1313/categories/teknologi/</guid>
       <description></description>
     </item>
     <item>
       <title>Coretan</title>
-      <link>http://localhost:54606/categories/coretan/</link>
+      <link>http://localhost:1313/categories/coretan/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54606/categories/coretan/</guid>
+      <guid>http://localhost:1313/categories/coretan/</guid>
       <description></description>
     </item>
   </channel>
