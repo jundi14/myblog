@@ -54,9 +54,10 @@ content:
         type: date
       - name: categories
         label: Kategori
-        type: code
+        type: select
         options:
-           language: html
+           values:
+           - value: [Teknologi']
       - name: tags
         label: Tag
         type: string
