@@ -61,7 +61,7 @@ content:
       - name: cover
         label: Gambar Cover
         type: image
-        option:
+        options:
           media: 
             input: assets/images
             output: public
