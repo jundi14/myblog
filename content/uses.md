@@ -3,7 +3,7 @@ title: Uses
 slug: uses
 description: Hal-hal yang saya gunakan sehari-hari dalam berbagai kategori
 draft: false
-comment: false
+comments: false
 ---
 Hal-hal yang saya gunakan sehari-hari:
 
