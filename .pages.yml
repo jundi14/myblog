@@ -19,7 +19,6 @@ content:
         label: Meta Deskripsi
         type: text
         options:
-         minlength: 50
          maxlength: 160
       - name: draft
         label: Draft
@@ -49,7 +48,6 @@ content:
         label: Meta Deskripsi
         type: text
         options:
-         minlength: 50
          maxlength: 160
       - name: date
         label: Date
@@ -66,6 +64,7 @@ content:
         option:
           media: 
             input: assets/images
+            output: public
       - name: draft
         label: Draft
         type: boolean
