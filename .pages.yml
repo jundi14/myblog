@@ -57,14 +57,17 @@ content:
       - name: categories
         label: Kategori
         type: select
+        multiple: true
         options:
         values:
-        - value: ["Teknologi"]
+        - value: "Teknologi"
           label: Teknologi
-        - value: ["Coretan"]
-          label: Coretan
-        - value: ["Blogging"]
-          label: Blogging
+        - value: "Tutorial"
+          label: Tutorial
+        - value: "Lifestyle"
+          label: Lifestyle
+        default: ["Teknologi"]
+        hint: "Pilih hanya satu kategori saja"
       - name: tags
         label: Tag
         type: string
