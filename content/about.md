@@ -1,13 +1,8 @@
 ---
 title: About
 slug: about
-description: 
-showReadingtime: false
-showWordCount: false
-showDate: false
-showAuthor: false
-showPagination: false
-showTableOfContents: false
+draft: false
+comment: false
 ---
 ## Siapa Saya
 
@@ -47,39 +42,20 @@ Sekarang setelah kamu tahu sedikit tentang saya, saya berharap bisa mengetahui l
 
 Blog ini sepenuhnya dibiayai sendiri, dan mengandalkan kemurahan hati para pembaca untuk menjaga semuanya tetap aktif.
 
-Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.\
+Jika kamu ingin mendukung blog ini, kamu dapat memberikan donasi satu kali atau berulang.  
 Terimakasih!
 
 Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 
-
-Salam hangat,\
+Salam hangat,  
 **Jundi**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I'M Certified Impactful Writer</title>
-    <style>
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <a>
-        <img src="https://www.impactfulwriting.com/wp-content/uploads/2024/05/CIW.png" alt="Certified Impactful Writer">
-    </a>
-</body>
-</html>
+  I'M Certified Impactful Writer img { max-width: 100%; height: auto; } ![Certified Impactful Writer](https://www.impactfulwriting.com/wp-content/uploads/2024/05/CIW.png)
 
----
+* * *
 
-<a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
+[![a proud member of the blue team of 512KB club](https://512kb.club/assets/images/blue-team.svg)](https://512kb.club)
 
 ![](img/Written-By-Human-Not-By-AI-Badge-white.svg)
 
-<p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>
+👻 Proud Member of [darktheme.club](https://darktheme.club/) 👻
