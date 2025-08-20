@@ -21,7 +21,7 @@ content:
       - name: draft
         label: draft
         type: boolean
-        default: true
+        default: false
       - name: comment
         label: Aktifkan Komentar
         type: boolean
