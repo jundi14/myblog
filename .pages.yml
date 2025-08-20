@@ -56,7 +56,8 @@ content:
         label: Kategori
         type: select
         options:
-           values:
+          creatable: true
+          values:
            - value: ['Teknologi']
              label: Teknologi
            - value: ['Coretan']
