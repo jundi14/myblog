@@ -1,12 +1,13 @@
 ---
 title: Inilah Beberapa Hal yang Perlu Anda Ketahui Tentang NFT
-date: 2021-12-05
-categories: ["Teknologi"]
-description: NFT menjadi bahan perbincangan hampir di setiap belahan negara, mari kita simak pembahasannya.
-summary: Di era saat ini memiliki aset digital merupakan trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama aset digital yang cukup populer saat ini adalah mata uang Bitcoin.
 slug: Apa itu nft
-cover: "/images/apa-itu-nft.jpg"
-
+description: NFT menjadi bahan perbincangan hampir di setiap belahan negara,
+  mari kita simak pembahasannya.
+date: 2021-12-05
+categories: Teknologi
+cover: /images/apa-itu-nft.jpg
+draft: false
+comment: true
 ---
 Di era saat ini kepemilikan aset digital merupakan salah satu trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama, aset digital yang cukup populer saat ini adalah mata uang kripto, seperti Bitcoin, Ethereum, Litecoin, Ripple, dan lain-lain.
 
@@ -17,20 +18,8 @@ Nah, sudahkah Anda mengetahui tentang aset kripto NFT ini? Ataukah Anda berkunju
 Jika belum mengetahuinya, maka Anda sudah berada di tempat yang tepat.
 
 Sebab, dalam artikel ini akan dibahas lebih lanjut tentang NFT yang meliputi pengertian, kegunaan, kelebihan, hingga kekurangannya. Oleh sebab itu, simak artikel ini hingga tuntas untuk mendapatkan informasinya secara lengkap.
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 ## Apa Itu NFT (Non-Fungible Token) ?
 
@@ -61,20 +50,8 @@ Dengan demikian, kita dapat mengetahui beberapa informasi penting seperti penerb
 Meskipun teknologi NFT ini tidak dapat mencegah seseorang untuk memiliki salinan yang berasal dari aset digital NFT, namun tetap ada faktor pembedanya. NFT memiliki kode unik, sehingga dapat menjadikannya sebagai bukti sah kepemilikan.
 
 Oleh karena itu, **NFT (_Non-Fungible Token_)** dapat digunakan sebagai pilihan efektif terhadap aset yang bersifat _collectible._ Selain itu, NFT juga dapat digunakan untuk upaya pemberantasan terhadap sebuah praktik pembajakan
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 ## Kelebihan NFT (Non-Fungible Token)
 
@@ -82,17 +59,17 @@ Setelah berbicara mengenai pengertian dari NFT **(_Non-Fungible Token_)** dan ju
 
 Inilah beberapa kelebihan dari aset NFT yang juga menjadi alasan mengapa aset ini menjadi sangat populer.
 
-### 1. Unik
+### 1\. Unik
 
 Kelebihan pertama yang ada pada aset NFT adalah unik. Hal ini dikarenakan NFT tidak dapat diduplikasikan. Sehingga, NFT ini sifatnya sangat eksklusif. Tidak hanya itu, sifat ini menjadikanya sebagai aset yang tidak dapat ditiru, atau mungkin sangat kecil kemungkinannya untuk bisa ditiru. Maka, aset digital ini sangatlah berharga untuk dimiliki.
 
-### 2. Tidak Dapat Berubah
+### 2\. Tidak Dapat Berubah
 
 Hal berikutnya yang menjadi alasan kepopuleran NFT adalah sifatnya yang tidak dapat berubah. Pasalnya, NFT **(_Non-Fungible Token_)** berisikan metadata yang mengidentifikasikan keaslian sebuah karya.
 
 Sedangkan, metadata tersebut tidak dapat dihapus oleh siapapun. Dengan demikian, NFT dapat tersimpan selamanya di dalam _blockchain._ Pada akhirnya, NFT menjadi sebuah aset digital yang memiliki harga tinggi dan juga _collectible._
 
-### 3. Pasar Terdesentralisasi
+### 3\. Pasar Terdesentralisasi
 
 Kelebihan selanjutnya yang dimiliki oleh NFT adalah pasar yang terdesentralisasi. Maksudnya, mereka yang memiliki NFT dapat menjual asetnya tanpa harus melalui perantara. Sehingga para pemilik aset digital ini bisa mendapatkan komisi dari terjadinya transaksi penjualan tersebut.
 
@@ -102,13 +79,13 @@ Dengan ditawarkannya beberapa kelebihan yang dimiliki, lantas apakah NFT **(_Non
 
 Tentu saja tidak. Sama seperti dengan aset digital lainnya, NFT yang dihargai sangat tinggi ini juga memiliki beberapa kelemahan. Apa saja kelemahannya, simak informasinya di bawah ini.
 
-### 1. Sulit Diprediksi
+### 1\. Sulit Diprediksi
 
 Tidak dapat dipungkiri, bahwa NFT ini merupakan aset digital yang masih tergolong baru. Hal ini membuatnya termasuk kedalam pasar _volatile._ Tidak ada yang bisa memprediksi secara pasti soal kenaikan atau penurunan harga aset ini.
 
 Selain itu, juga tidak ada yang bisa menjamin bahwa aset digital ini dapat bertahan lama. Oleh sebab itu, aset digital ini bisa dikatakan masih berisiko tinggi.
 
-### 2. Terdapat Risiko Penipuan dan Pencurian
+### 2\. Terdapat Risiko Penipuan dan Pencurian
 
 NFT **(_Non-Fungible Token_)** ini juga masih memiliki risiko penipuan dan pencurian. Hal ini diketahui dari beberapa kasus yang dialami oleh kreator dan seniman. Mereka mengaku bahwa karya mereka telah dicuri atau dilelang tanpa sepengetahuan mereka.
 
@@ -120,24 +97,12 @@ Dengan adanya penjelasan tentang pengertian dan juga kelebihan serta kekurangann
 
 Apabila Anda memang tertarik untuk membeli NFT, maka ada hal-hal yang perlu Anda lakukan. Berikut ini adalah penjelasannya :
 
-* Anda akan memerlukan mata uang kripto seperti Ether, namun hal ini tergantung lagi dengan mata uang apa yang diterima oleh penyedia NFT. Jika demikian, maka Anda juga akan memerlukan dompet digital untuk menyimpan NFT dan mata uang kripto.
-* Anda bisa membeli kripto menggunakan kartu kredit pada platform tertentu seperti Kraken, Coinbase, eToro, Robinhood atau PayPal.
-* Apabila dompet digital dan dana Anda sudah siap, maka Anda bisa membeli NFT pada beberapa situs, diantaranya Rarible, OpenSea.io dan Foundation.
+*   Anda akan memerlukan mata uang kripto seperti Ether, namun hal ini tergantung lagi dengan mata uang apa yang diterima oleh penyedia NFT. Jika demikian, maka Anda juga akan memerlukan dompet digital untuk menyimpan NFT dan mata uang kripto.
+*   Anda bisa membeli kripto menggunakan kartu kredit pada platform tertentu seperti Kraken, Coinbase, eToro, Robinhood atau PayPal.
+*   Apabila dompet digital dan dana Anda sudah siap, maka Anda bisa membeli NFT pada beberapa situs, diantaranya Rarible, OpenSea.io dan Foundation.
 
 Itulah tadi hal-hal yang perlu Anda ketahui tentang NFT **(_Non-Fungible Token_**), yang mana diketahui cukup populer dan ramai diperbincangkan belakangan ini.
 
 Semoga dengan adanya informasi seputar pengertian, kegunaan, kelebihan dan kekurangan NFT tadi dapat membantu Anda menemukan informasi yang akurat tentang NFT.
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
