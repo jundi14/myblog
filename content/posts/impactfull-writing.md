@@ -6,7 +6,7 @@ categories:
   - Coretan
 cover: /images/impactfull-writing.jpg
 draft: false
-comment: true
+comments: true
 ---
 Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita, menentukkan pula apa yang akan kita lakukan berikutnya.
 
