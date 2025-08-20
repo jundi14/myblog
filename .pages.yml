@@ -33,6 +33,10 @@ content:
         label: draft
         type: boolean
         default: true
+      - name: comment
+        label: Comment
+        type: boolean
+        default: true
       - name: body
         label: Isi Artikel
         type: rich-text
