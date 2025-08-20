@@ -33,7 +33,8 @@ content:
         label: Gambar Cover
         type: image
         option:
-          media: assets/images
+          media: 
+            input: assets/images
       - name: draft
         label: draft
         type: boolean
