@@ -8,7 +8,7 @@ categories:
   - Teknologi
 cover: /images/apa-itu-nft.jpg
 draft: false
-comment: true
+comments: true
 ---
 
 Di era saat ini kepemilikan aset digital merupakan salah satu trend yang marak diperbincangkan, khususnya di kalangan investor. Terutama, aset digital yang cukup populer saat ini adalah mata uang kripto, seperti Bitcoin, Ethereum, Litecoin, Ripple, dan lain-lain.
