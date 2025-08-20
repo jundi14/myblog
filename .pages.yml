@@ -54,7 +54,7 @@ content:
       - name: date
         label: Date
         type: date
-      - name: categories
+      - name: "categories"
         label: Kategori
         type: select
         multiple: true
@@ -67,7 +67,6 @@ content:
         - value: "Lifestyle"
           label: Lifestyle
         default: ["Teknologi"]
-        hint: "Pilih hanya satu kategori saja"
       - name: tags
         label: Tag
         type: string
