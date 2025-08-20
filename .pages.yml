@@ -54,19 +54,15 @@ content:
       - name: date
         label: Date
         type: date
-      - name: "categories"
+      - name: categories
         label: Kategori
         type: select
         multiple: true
         options:
-        values:
-        - value: "Teknologi"
-          label: Teknologi
-        - value: "Tutorial"
-          label: Tutorial
-        - value: "Lifestyle"
-          label: Lifestyle
-        default: ["Teknologi"]
+          values:
+          - "Teknologi"
+          - "Tutorial"
+          - "Lifestyle"
       - name: tags
         label: Tag
         type: string
