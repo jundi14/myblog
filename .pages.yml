@@ -12,6 +12,9 @@ content:
       - name: title
         label: Judul
         type: string
+      - name: slug
+        label: Custom URL
+        type: string
       - name: description
         label: Deskripsi
         type: text
