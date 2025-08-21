@@ -11,8 +11,6 @@ categories:
 ---
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
 
-![](/images/posts/screenshot-2025-08-15-213456.png)
-
 Khusus untuk Facebook, memang sekarang ini menjadi media sosial yang banyak digunakan. Sebelumnya, nama induk perusahaannya adalah Facebook Inc. Akan tetapi, beberapa waktu lalu Mark Zuckerberg selaku CEO mengumumkan bahwa Facebook Inc berubah nama menjadi Meta.
 
 Perusahaan ini juga menyatakan bahwa sedang mengerjakan konsep untuk membuat metaverse di dunia online. Apa maksud dari metaverse, apa yang diuntungkan, kelebihan dan kekurangan apa, serta perusahaan apa saja yang sudah mengembangkannya? Akan dibahas dalam artikel.
