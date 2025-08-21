@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: master 
+media_folder: images
+public_folder: public
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/posts'
+    media_folder: "assets/images/posts/*/"   # biar hugo bisa pakai resources
+    public_folder: "/images/posts"
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Judul Artikel', name: 'title', widget: 'string' }
+      - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { 
+          name: "comments", 
+          label: "Aktifkan Komentar", 
+          widget: "boolean", 
+          default: true,       
+          hint: "Centang untuk mengaktifkan komentar"
+        }
+      - { label: 'Hero Image', name: 'cover', widget: 'image' } 
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Judul Halaman', name: 'title', widget: 'string' }
+      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+    
