@@ -24,6 +24,7 @@ collections:
       - { name: "body", label: "Isi Halaman", widget: "markdown" }
 
 # Content type for posts
+collections:
   - name: "blog"
     label: "Blog"
     folder: "content/posts"
