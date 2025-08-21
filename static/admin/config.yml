@@ -22,9 +22,6 @@ collections:
         media_folder: "images"   # path cover image
         public_folder: "/public/pages"
       - { name: "body", label: "Isi Halaman", widget: "markdown" }
-
-# Content type for posts
-collections:
   - name: "blog"
     label: "Blog"
     folder: "content/posts"
