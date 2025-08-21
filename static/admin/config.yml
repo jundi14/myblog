@@ -4,20 +4,17 @@ backend:
 media_folder: images
 public_folder: public
 collections:
-- name: "blog"
-  label: "Blog"
-  folder: "content/posts"
-  create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-  editor:
-   preview: false
-  fields:
-   - { label: "Judul Artikel", name: "title", widget: "string" }
-   - { label: "Custom URL", name: "slug", widget: "string" }      
-   - { label: "Tanggal Posting", name: "date", widget: "datetime" }
-   - { label: "Meta Deskripsi", name: "description", widget: "string" }
-   - { Label: "Kategori Artikel", name: "categories", widget: "string" }
-   - { label: "Hero Image", name: "cover", widget: "image" }
-       media_folder: "assets/images/posts"   # biar hugo bisa pakai resources
-       public_folder: "/public/images/posts"
-   - { label: "Isi Artikel", name: "body", widget: "markdown" } 
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/posts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Judul Artikel', name: 'title', widget: 'string' }
+      - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { Label: "Kategori Artikel", name: "categories", widget: "string" }
+      - { label: 'Hero Image', name: 'cover', widget: 'image' }
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
