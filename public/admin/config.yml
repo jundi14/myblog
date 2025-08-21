@@ -7,6 +7,8 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
+    media_folder: "assets/images/posts"   # biar hugo bisa pakai resources
+    public_folder: "/images/posts"
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -22,7 +24,7 @@ collections:
           default: true,       
           hint: "Centang untuk mengaktifkan komentar"
         }
-      - { label: 'Hero Image', name: 'cover', widget: 'image' }
+      - { label: 'Hero Image', name: 'cover', widget: 'image' } 
       - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
