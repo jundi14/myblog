@@ -15,7 +15,6 @@ collections:
       - { label: 'Judul Artikel', name: 'title', widget: 'string' }
       - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
       - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
-      - { Label: "Kategori Artikel", name: "categories", widget: "string" }
       - { 
           name: "comments", 
           label: "Aktifkan Komentar", 
