@@ -4,7 +4,6 @@ backend:
 media_folder: static
 public_folder: public
 collections:
-
   # Content type for pages
   - name: "pages"
     label: "Pages"
@@ -23,20 +22,20 @@ collections:
       - { name: "body", label: "Isi Halaman", widget: "markdown" }
 
 # Content type for posts
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/posts'
+  - name: "blog"
+    label: "Blog"
+    folder: "content/posts"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Judul Artikel', name: 'title', widget: 'string' }
-      - { label: 'Custom URL', name: 'slug', widget: 'string' }      
-      - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
-      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+     - { label: "Judul Artikel", name: "title", widget: "string" }
+      - { label: "Custom URL", name: "slug", widget: "string" }      
+      - { label: "Tanggal Posting", name: "date", widget: "datetime" }
+      - { label: "Meta Deskripsi", name: "description", widget: "string" }
       - { Label: "Kategori Artikel", name: "categories", widget: "string" }
-      - { label: 'Hero Image', name: 'cover', widget: 'image' }
+      - { label: "Hero Image", name: "cover", widget: "image" }
           media_folder: "assets/images/posts"   # biar hugo bisa pakai resources
           public_folder: "/public/images/posts"
-      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+      - { label: "Isi Artikel", name: "body", widget: "markdown" } 
