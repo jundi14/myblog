@@ -18,3 +18,17 @@ collections:
       - { Label: "Kategori Artikel", name: "categories", widget: "string" }
       - { label: 'Hero Image', name: 'cover', widget: 'image' }
       - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'page'
+    folder: 'content'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Judul Halaman', name: 'title', widget: 'string' }
+      - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { label: 'Hero Image', name: 'cover', widget: 'image' }
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+    
