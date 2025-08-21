@@ -12,13 +12,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { 
-          name: "categories", 
-          label: "Categories", 
-          widget: "string", 
-        }
-      - { label: 'Cover', name: 'cover', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Judul Artikel', name: 'title', widget: 'string' }
+      - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { Label: "Kategori Artikel", name: "categories", widget: "string" }
+      - { label: 'Hero Image', name: 'cover', widget: 'image' }
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
