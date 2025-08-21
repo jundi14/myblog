@@ -4,22 +4,6 @@ backend:
 media_folder: images
 public_folder: public
 collections:
-  # Content type for pages
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
-    create: true
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { name: "title", label: "Judul", widget: "string" }
-      - name: "cover"
-        label: "Cover Image"
-        widget: "image"
-        media_folder: "images"   # path cover image
-        public_folder: "/public/pages"
-      - { name: "body", label: "Isi Halaman", widget: "markdown" }
   - name: "blog"
     label: "Blog"
     folder: "content/posts"
