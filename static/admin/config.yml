@@ -4,15 +4,15 @@ backend:
 media_folder: images
 public_folder: public
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "content/posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
+ - name: "blog"
+   label: "Blog"
+   folder: "content/posts"
+   create: true
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+   editor:
       preview: false
-    fields:
-     - { label: "Judul Artikel", name: "title", widget: "string" }
+      fields:
+      - { label: "Judul Artikel", name: "title", widget: "string" }
       - { label: "Custom URL", name: "slug", widget: "string" }      
       - { label: "Tanggal Posting", name: "date", widget: "datetime" }
       - { label: "Meta Deskripsi", name: "description", widget: "string" }
