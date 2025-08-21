@@ -3,7 +3,9 @@ draft: false
 slug: Apa itu metaverse
 title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 date: 2021-12-05
-description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
+description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi
+  Metadfa efas asdfdsfdsfdsfa faedf asfasdf df dfdf asdf df asf adsf asdf adsf
+  df asdf adsfasd
 comments: true
 cover: /images/apa-itu-metaverse.jpg
 categories:
