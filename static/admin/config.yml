@@ -14,7 +14,12 @@ collections:
     fields:
       - { label: 'Judul Artikel', name: 'title', widget: 'string' }
       - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
-      - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
+      - { 
+          label: 'Meta Deskripsi', 
+          name: 'description', 
+          widget: 'string',  
+          pattern: ["^.{0,160}$", "Deskripsi maksimal 160 karakter"]  
+        }
       - { 
           name: "comments", 
           label: "Aktifkan Komentar", 
