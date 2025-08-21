@@ -19,14 +19,14 @@ collections:
           name: "categories", 
           label: "Categories", 
           widget: "select", 
-          multiple: true, 
+          multiple: false, 
           options: 
            - "Teknologi"
            - "Coretan"
            - "Blogging"
            output: 
           # bungkus hasil ke dalam array
-           format: "["{{value}}"]"
+           format: ["{{value}}"]
         }
       - { label: 'Cover', name: 'cover', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
