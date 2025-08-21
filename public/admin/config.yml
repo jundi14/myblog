@@ -19,8 +19,11 @@ collections:
           name: "categories", 
           label: "Categories", 
           widget: "select", 
-          multiple: false, 
-          options: ["["Teknologi"]", "["Coretan"]", "["Blogging]"] 
+          multiple: true, 
+          options: 
+           - "Teknologi"
+           - "Coretan"
+           - "Blogging"
         }
       - { label: 'Cover', name: 'cover', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -21,9 +21,9 @@ collections:
           widget: "select", 
           multiple: true, 
           options: 
-           - ["Teknologi"]
-           - ["Coretan"]
-           - ["Blogging"]
+           - "Teknologi"
+           - "Coretan"
+           - "Blogging"
         }
       - { label: 'Cover', name: 'cover', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
