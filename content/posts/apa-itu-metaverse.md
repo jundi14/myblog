@@ -4,9 +4,10 @@ slug: Apa itu metaverse
 title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 date: 2021-12-05
 description: Beberapa waktu lalu CEO facebook mengubah nama facebook menjadi Meta
-categories: ["Teknologi"]
-comments: false
+comments: true
 cover: /images/apa-itu-metaverse.jpg
+categories:
+  - Teknologi
 ---
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
 
