@@ -7,8 +7,6 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
-    media_folder: "~/assets/images/posts/"   # biar hugo bisa pakai resources
-    public_folder: "/images/posts"
     create: true
     slug: '{{year}}-{{month}}-{{slug}}'
     editor:
