@@ -2,7 +2,7 @@
 title: Blogroll
 slug: blogroll
 description: Berisi kumpulan link penting yang sering saya gunakan
-draft: false
+draft: true
 comments: false
 ---
 Berikut linknya:
