@@ -5,7 +5,7 @@ description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
   perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang
 date: 2024-09-05
 categories: ["Teknologi"]
-cover: /images/kelebihan-byu.jpg
+cover: img/kelebihan-byu.jpg
 draft: false
 comments: true
 ---
@@ -13,7 +13,7 @@ Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa 
 
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
-![by.U](/images/posts/kelebihan-byu/by.u.jpg)
+![by.U](/img/posts/kelebihan-byu/by.u.jpg)
 
 Sama seperti halnya M-BCA dengan Blu BCA, masih satu perusahaan tapi untuk target yang berbeda. M-BCA menampilkan fitur yang sering digunakan dan sederhana dan Blu BCA dengan fitur kekinian dan modern.
 
@@ -60,12 +60,12 @@ Jadi ngga perlu khawatir nomor akan hangus dalam jangka waktu tertentu, kecuali 
 
 Kartu sim by.U ini nggak punya yang namanya pembagian kuota lokal dan nasional, atau kuota malam dan siang.
 
-![Kuota 24 Jam by.U](/images/posts/kelebihan-byu/kuota-24-jam.jpg "Kuota 24 Jam Tanpa Pembagian")
+![Kuota 24 Jam by.U](/img/posts/kelebihan-byu/kuota-24-jam.jpg "Kuota 24 Jam Tanpa Pembagian")
 
 Jadi semua kuotanya 24 jam.  
 Kalau untuk harga relatif, mau dibandingkan dengan apa dulu, kalau dibandingkan dengan telkomsel, jauh lebih murah.
 
-![Pilihan Paket Internet by.U](/images/posts/kelebihan-byu/pilihan-paket.jpg "Salah satu pilihan paket by.U")
+![Pilihan Paket Internet by.U](/img/posts/kelebihan-byu/pilihan-paket.jpg "Salah satu pilihan paket by.U")
 
 Kecuali kartu telkomsel yang lawas terkadang punya pilihan paket internet yang harganya jauh-jauh lebih murah.
 
@@ -73,17 +73,17 @@ Kecuali kartu telkomsel yang lawas terkadang punya pilihan paket internet yang h
 
 Saat membeli kuota akan mendapatkan U-coin, bisa dikumpulkan dan bisa ditukar ke bonus, bisa dalam bentuk kuota ataupun voucher.
 
-![Pembelian kuota atau pulsa akan mendapatkan u-coin](/images/posts/kelebihan-byu/u-coin.jpg "Penukaran U-coin")
+![Pembelian kuota atau pulsa akan mendapatkan u-coin](/img/posts/kelebihan-byu/u-coin.jpg "Penukaran U-coin")
 
 Ada juga U-tainment, disana disediakan berbagai macam hiburan; menonton film, mendengarkan musik dan podcast, bahkan komik juga ada.
 
-![U-tainment by.U](/images/posts/kelebihan-byu/u-tainment.jpg "U-tainment by.U")
+![U-tainment by.U](/img/posts/kelebihan-byu/u-tainment.jpg "U-tainment by.U")
 
 Ketika kita mengakses U-tainment juga akan mendapatkan U-stamp yang bisa ditukarkan dalam bentuk kuota ataupun merchandise.
 
-![Mengumpulkan U-stamp by.U](/images/posts/kelebihan-byu/mengumpulkan-u-stamp.jpg "Mengumpulkan U-stamp")
+![Mengumpulkan U-stamp by.U](/img/posts/kelebihan-byu/mengumpulkan-u-stamp.jpg "Mengumpulkan U-stamp")
 
-![Penukaran U-stamp by.U](/images/posts/kelebihan-byu/tukar-u-stamp.jpg "Tukar U-stamp")
+![Penukaran U-stamp by.U](/img/posts/kelebihan-byu/tukar-u-stamp.jpg "Tukar U-stamp")
 
 Asik kan?  
 Walaupun saya ngga ngga pernah mengumpulkan U-stamp untuk mendapatkan bonusnya.
@@ -96,7 +96,7 @@ Selain bisa melakukan transaksi menggunakan VA (Virtual Account) bisa juga mengg
 
 Gimana, cukup fleksibel bukan?
 
-![Pembayaran menggunakan E-money](/images/posts/kelebihan-byu/pembayaran.jpg "Sistem pembayaran yang fleksibel")
+![Pembayaran menggunakan E-money](/img/posts/kelebihan-byu/pembayaran.jpg "Sistem pembayaran yang fleksibel")
 
 ### Hadiah Kuota
 
@@ -141,7 +141,7 @@ Di aplikasi disebutkan bahwa maksimal akan diproses dalam waktu 24 jam, tetapi s
 
 Lalu saya coba chat Nindy -_bot milik by.U_\- dan kata Nindy di data mereka tidak terdeteksi bahwa saya melakukan klaim ganti kartu dan disuruh mengisi isian berikut
 
-![Asistant Virtual by.U Nindy](/images/posts/kelebihan-byu/help-chat.jpg)
+![Asistant Virtual by.U Nindy](/img/posts/kelebihan-byu/help-chat.jpg)
 
 Bisa jadi memang ada bugs yang ada pada aplikasi by.U ini, kedepannya akan saya coba mengisi data yang dikirim oleh Nindy.
 

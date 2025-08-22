@@ -5,7 +5,7 @@ title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 date: 2021-12-05
 description: Beberapa waktu lalu CEO facebook mengubah nama Facebook menjadi Meta
 comments: true
-cover: /images/apa-itu-metaverse.jpg
+cover: img/apa-itu-metaverse.jpg
 categories:
   - Teknologi
 ---

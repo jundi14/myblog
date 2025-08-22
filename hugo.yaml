@@ -4,19 +4,15 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 title: Jundi Mubarok
 theme: hugo-narrow
-
 hasCJKLanguage: true
 enableEmoji: true
-
 permalinks:
   posts: /posts/:slug/
   pages: /:slug/
-  
 # pagination
 pagination:
   pagerSize: 10
   path: "page"
-
 languages:
   en:
     languageCode: en-US
@@ -26,11 +22,9 @@ languages:
     languageCode: id-ID
     languageName: "Indonesian"
     weight: 2
-
 taxonomies:
   category: categories
   tag: tags
-
 menus:
   main:
     - name: nav.posts
@@ -48,7 +42,6 @@ menus:
       weight: 50
       params:
         icon: archive
-
   # footer menu
   footer:
     - name: About
@@ -66,7 +59,6 @@ menus:
       weight: 30
       params:
         icon: list  
-
   # footer social link
   social:
     - name: Email
@@ -79,8 +71,6 @@ menus:
       weightt: 30
       params:
         icon: "heart"  
-    
-
 params:
   # Basic site info with SEO
   description: "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website."
@@ -89,20 +79,17 @@ params:
   language: "en-US"
   shortName: "Jundi Mubarok"  # PWA
   images:
-  - "/images/android-chrome-512x512.avif"
-
+  - "/android-chrome-512x512.avif"
   logo:
-    image: "/images/android-chrome-512x512.png"  # Logo path rel to static folder, leave empty use site title and primary color
+    image: "/android-chrome-512x512.png"  # Logo path rel to static folder, leave empty use site title and primary color
     link: "/"                  # click to home page
   favicon:
     svg: "/favicon.ico"        # SVG format favicon (recommended)
-
-
   author:
     name: "Jundi Mubarok"
     title: "Write Stories Share Inspiration"
     description: 
-    avatar: "/images/author-baru.avif"
+    avatar: "/author-baru.avif"
     social:
       - name: "Instagram"
         url: "https://instagram.com/jundi.mubarok"
@@ -110,16 +97,12 @@ params:
       - name: "Telegram"
         url: "https://t.me/jundi_mubarok"
         icon: "telegram"
-      
-    
   # UI Components Control
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
   showDarkModeSwitch: true   # Set to false to hide dark mode switcher (sun/moon icon)
   showLanguageSwitch: false   # Set to false to hide language switcher
-
   # Header sticky effect
   stickyHeader: true  # Set to true to enable sticky navigation bar
-
   # default color scheme
   colorScheme: "nord"
   themes:
@@ -156,30 +139,24 @@ params:
     twitter:
       name: "Twitter"
       order: 11
-
   home:
     recentPostsCount: 6 # Number of recent posts to show on the home page
-
   post:
     showRelated: false           # show related posts
     relatedPostsCount: 3        # posts number
-  
     license:
       show: true
       author: "Jundi"
       name: "CC BY-NC 4.0"
-      description: "Harap cantumkan sumbernya, gunakan untuk tujuan non-komersial, dan pertahankan lisensi yang sama."
+      description: "Harap gunakan untuk tujuan non-komersial dan pertahankan lisensi yang sama."
       url: "http://creativecommons.org/licenses/by-nc/4.0/"
       displayName: "CC BY-NC 4.0"
-
   # comments
   comments:
     enabled: false  # giscus, disqus, utterances, waline, artalk, twikoo
-    system: "waline"
-    waline:
-      serverURL: "https://waline-system-comment.vercel.app/"  # Waline server
-      lang: "en-US"                   # language
-
+    system: "disqus"
+    disqus:
+      shortname: "jundi14"
   analytics:
     enabled: false
     google:
@@ -190,7 +167,6 @@ params:
       id: "your-umami-website-id"
       src: "https://umami.com/myscript.js"
       domains: "example.domain.com"
-
   katex:
     enabled: false
     delimiters:
@@ -206,10 +182,8 @@ params:
       - left: "\\["
         right: "\\]"
         display: true
-      
   mermaid:
     enabled: false
-
   # GLightbox
   lightbox:
     enabled: false
@@ -221,7 +195,6 @@ params:
     zoomable: true
     preload: true
     descPosition: bottom
-
   # Justified Gallery
   justified_gallery:
     enabled: false
@@ -233,7 +206,6 @@ params:
     rowHeightTolerance: 0.25
     maxRowsCount: 999999
     calculateItemsHeight: false
-
 markup:
   tableOfContents:
     startLevel: 2
@@ -250,7 +222,6 @@ markup:
     noClasses: false
     style: github # No need to change
     tabWidth: 2
-
 codeblock:
   collapse:
     enabled: true
@@ -258,23 +229,19 @@ codeblock:
     autoCollapseLines: 30
     autoCollapseHeight: 400
     collapsedHeight: 120
-
 readingProgress:
   enabled: true
   height: 3
   showOnHomepage: false
   smoothScroll: true
   hideOnComplete: true
-
 outputs:
   home: ["HTML", "RSS", "JSON", "WebAppManifest"]
-
 outputFormats:
   WebAppManifest:
     mediaType: "application/manifest+json"
     baseName: "site"
     isPlainText: true
-
 module:
   hugoVersion:
     extended: true

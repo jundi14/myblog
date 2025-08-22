@@ -5,7 +5,7 @@ description: NFT menjadi bahan perbincangan hampir di setiap belahan negara,
   mari kita simak pembahasannya.
 date: 2021-12-05
 categories: ["Teknologi"]
-cover: /images/apa-itu-nft.jpg
+cover: img/apa-itu-nft.jpg
 draft: false
 comments: true
 ---
