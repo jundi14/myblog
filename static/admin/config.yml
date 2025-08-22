@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: jundi14/myblog
-media_folder: /img
+media_folder: img
 public_folder: public
 collections:
   - name: 'blog'
