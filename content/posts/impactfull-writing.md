@@ -3,7 +3,7 @@ title: Pola Pikir Akan Negatif Jika Kamu Belum Melakukan 3 Tips Ini
 slug: cara-memperbaiki-pola-pikir
 date: 2024-06-02
 categories: ["Coretan"]
-cover: img/impactfull-writing.jpg
+cover: /img/impactfull-writing.jpg
 draft: false
 comments: true
 ---
