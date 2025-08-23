@@ -6,7 +6,7 @@ backend:
     update: Update {{collection}} “{{slug}}”
     delete: Delete {{collection}} “{{slug}}”
 media_folder: img
-public_folder: public
+public_folder: img
 collections:
   - name: 'blog'
     label: 'Blog'
