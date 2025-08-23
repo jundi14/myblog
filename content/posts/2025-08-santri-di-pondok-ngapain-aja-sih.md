@@ -5,7 +5,7 @@ date: 2025-08-23T23:42:00.000+07:00
 description: Yang pernah menjadi santri bahkan sampai sekarang pun masih duduk
   di bangku pesantren, pasti punya dong pengalaman seru selama di pesantren?
 comments: true
-cover: img/santri-ngapain-aja.jpg
+cover: /img/santri-ngapain-aja.jpg
 ---
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
 
