@@ -12,8 +12,6 @@ categories:
 ---
 Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau nggak segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
 
-![Contoh](public/screenshot-2025-08-15-213456.png "Screenshot")
-
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
 ![by.U](/img/posts/kelebihan-byu/by.u.jpg)
