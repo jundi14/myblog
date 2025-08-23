@@ -1,10 +1,10 @@
 ---
 title: 9 Cara Agar Kamu Betah Saat Di Pesantren
 slug: cara agar betah di pesantren
-date: 2021-11-30
+date: 2025-08-23T23:32:00.000+07:00
 description: Gimana sih caranya biar kamu yang sedang duduk di bangku pesantren bisa betah?
 comments: true
-cover: /img/cara-betah-di-pesantren.jpg
+cover: public/cara-betah-di-pesantren.jpg
 tags:
   - pondok
   - santri
