@@ -7,7 +7,7 @@ categories: ["Coretan"]
 date: 2021-11-30
 showComments: true
 comments: true
-cover: public/cara-betah-di-pesantren.jpg
+cover: /img/cara-betah-di-pesantren.jpg
 tags:
 - pondok
 - santri

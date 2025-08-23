@@ -9,6 +9,7 @@ tags:
 - mondok
 - santri
 aliases: "/posts/coretan/9-hal-yang-dilakukan-oleh-santri/"
+cover: /img/santri-ngapain-aja.jpg
 
 ---
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
