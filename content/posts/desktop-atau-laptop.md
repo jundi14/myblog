@@ -5,13 +5,11 @@ description: Pilihan yang salah sangat tergantung pada pilihan kamu jika kamu me
   desktop atau laptop.
 categories: ["Teknologi"]
 date: 2021-12-04
-showComments: true
 comments: true
 cover: /img/desktop-atau-laptop.jpg
 tags:
 - laptop
 - pc
-
 ---
 Ada dilema besar saat membeli komputer. Proses pengambilan keputusan membawa Apa, Bagaimana, Yang mana dan faktor penentu yang bergantung pada Pilihan di luar harga, merek, dan kenyamanan.
 

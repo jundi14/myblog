@@ -8,9 +8,6 @@ comments: true
 cover: /img/iklan-website-berapa-banyak.jpg
 tags:
 - Iklan
-aliases: "/posts/blogging/berapa-banyak-jumlah-iklan-yang-ideal/"
-showComments: true
-
 ---
 Sebenarnya tidak ada patokan pasti untuk jumlah iklan dari sebuah website, tapi yang pasti kita tidak menginginkan jumlah iklan yang _bejibun_ hingga menutupi artikel.
 
