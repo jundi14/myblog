@@ -17,6 +17,7 @@ collections:
       preview: false
     fields:
       - { label: 'Judul Artikel', name: 'title', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
       - { label: 'Tanggal Posting', name: 'date', widget: 'datetime' }
       - { 
           label: 'Meta Deskripsi', 
