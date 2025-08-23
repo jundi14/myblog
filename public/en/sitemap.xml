@@ -43,17 +43,17 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/apa-itu-nft/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/berapa-banyak-jumlah-iklan-yang-ideal/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apa-itu-metaverse/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/blogging/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/tags/iklan/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id-ID"
@@ -64,6 +64,40 @@
                 hreflang="en-US"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/posts/apa-itu-nft/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/apa-itu-metaverse/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dilema-desktop-pc-atau-laptop/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/laptop/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pc/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/9-hal-yang-dilakukan-oleh-santri/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mondok/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/santri/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cara-agar-betah-di-pesantren/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pondok/</loc>
+    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/uses/</loc>
   </url>

@@ -1,16 +1,16 @@
 ---
 title: 9 Hal yang Dilakukan Oleh Santri
 slug: 9 Hal yang Dilakukan Oleh Santri
-date: 2021-12-01
 description: Hal hal yang saya alami selama menjadi santri
 categories: ["Coretan"]
 date: 2021-12-01
+showComments: true
+comments: true
+cover: /img/santri-ngapain-aja.jpg
 tags:
-- mondok
+- pondok
 - santri
 aliases: "/posts/coretan/9-hal-yang-dilakukan-oleh-santri/"
-cover: /img/santri-ngapain-aja.jpg
-
 ---
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
 

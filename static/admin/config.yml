@@ -27,9 +27,7 @@ collections:
       - { 
           name: "comments", 
           label: "Aktifkan Komentar", 
-          widget: "boolean", 
-          default: true,       
-          hint: "Centang untuk mengaktifkan komentar"
+          widget: "boolean"
         }
       - { label: 'Hero Image', name: 'cover', widget: 'image' } 
       - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }

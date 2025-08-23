@@ -1,10 +1,10 @@
 ---
 title: 9 Cara Agar Kamu Betah Saat Di Pesantren
 slug: cara agar betah di pesantren
-description: Gimana sih caranya biar kamu yang sedang duduk di bangku pesantren bisa
-  betah?
+description: Gimana sih caranya biar kamu yang sedang duduk di bangku pesantren bisa betah?
 categories: ["Coretan"]
 date: 2021-11-30
+showComments: true
 comments: true
 cover: /img/cara-betah-di-pesantren.jpg
 tags:
