@@ -1,15 +1,22 @@
 ---
-title: 9 Cara Agar Kamu Betah Saat Di Pesantren
+summary: Belajar di pesantren menjadi salah satu cara agar terbiasa dengan pola
+  hidup lebih disiplin dengan bimbingan asatidz yang akan mengarahkan kita
+  supaya hidup dengan tujuan yang tepat.
 slug: cara agar betah di pesantren
-description: Gimana sih caranya biar kamu yang sedang duduk di bangku pesantren bisa betah?
+description: Gimana sih caranya biar kamu yang sedang duduk di bangku pesantren bisa
+  betah?
+summary: Belajar di pesantren menjadi salah satu cara agar terbiasa dengan pola hidup lebih disiplin dengan bimbingan asatidz yang akan mengarahkan kita supaya hidup dengan tujuan yang tepat.
 categories: ["Coretan"]
 date: 2021-11-30
+showComments: true
+title: 9 Cara Agar Kamu Betah Saat Di Pesantren
+comments: true
+cover: public/cara-betah-di-pesantren.jpg
 tags:
 - pondok
 - santri
 aliases: "/posts/coretan/cara-agar-betah-di-pesantren/"
 showComments: true
-cover: /img/cara-betah-di-pesantren.jpg
 
 ---
 Belajar di pesantren menjadi salah satu cara agar terbiasa dengan pola hidup lebih disiplin dengan bimbingan asatidz yang akan membimbing kita untuk betah di dalam lingkungan yang lebih baik, insyaallah.
