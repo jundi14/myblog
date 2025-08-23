@@ -5,7 +5,6 @@ backend:
     create: Create {{collection}} “{{slug}}”
     update: Update {{collection}} “{{slug}}”
     delete: Delete {{collection}} “{{slug}}”
-logo_url: https:/blogbaru.netlify.app/static/android-chrome-512x512.svg
 media_folder: img
 public_folder: public
 collections:
