@@ -140,7 +140,7 @@ params:
     showRelated: false           # show related posts
     relatedPostsCount: 3        # posts number
     license:
-      show: true
+      show: false
       #author: "Jundi"
       #name: "CC BY-NC 4.0"
       description: "Harap gunakan untuk tujuan non-komersial dan pertahankan lisensi yang sama."
