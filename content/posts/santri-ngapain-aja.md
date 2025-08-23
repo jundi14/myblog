@@ -1,15 +1,19 @@
 ---
-title: 9 Hal yang Dilakukan Oleh Santri
+summary: Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…Saya
+  mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri,
+  apa kalian juga pernah nyantri?
 slug: 9 Hal yang Dilakukan Oleh Santri
-description: Hal hal yang saya alami selama menjadi santri
-summary: Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…Saya mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri, apa kalian juga pernah nyantri?
-categories: ["Coretan"]
+title: 9 Hal yang Dilakukan Oleh Santri
 date: 2021-12-01
+description: Hal hal yang saya alami selama menjadi santri
+comments: true
+cover: public/santri-ngapain-aja.jpg
 tags:
-- mondok
-- santri
-aliases: "/posts/coretan/9-hal-yang-dilakukan-oleh-santri/"
-
+  - mondok
+  - santri
+categories:
+  - Coretan
+aliases: /posts/coretan/9-hal-yang-dilakukan-oleh-santri/
 ---
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
 
