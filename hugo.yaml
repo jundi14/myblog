@@ -53,12 +53,7 @@ menus:
       pageRef: /uses
       weight: 20
       params:
-        icon: folder
-    - name: Blogroll
-      pageRef: /blogroll
-      weight: 30
-      params:
-        icon: list  
+        icon: list
   # footer social link
   social:
     - name: Email
@@ -146,10 +141,10 @@ params:
     relatedPostsCount: 3        # posts number
     license:
       show: true
-      author: "Jundi"
-      name: "CC BY-NC 4.0"
+      #author: "Jundi"
+      #name: "CC BY-NC 4.0"
       description: "Harap gunakan untuk tujuan non-komersial dan pertahankan lisensi yang sama."
-      url: "http://creativecommons.org/licenses/by-nc/4.0/"
+      #url: "http://creativecommons.org/licenses/by-nc/4.0/"
       displayName: "CC BY-NC 4.0"
   # comments
   comments:
