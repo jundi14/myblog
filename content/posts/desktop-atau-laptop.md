@@ -7,7 +7,7 @@ categories: ["Teknologi"]
 date: 2021-12-04
 showComments: true
 comments: true
-cover: public/desktop-atau-laptop.jpg
+cover: /img/desktop-atau-laptop.jpg
 tags:
 - laptop
 - pc
