@@ -1,3 +1,5 @@
+# when using the default proxy server port
+local_backend: true
 backend:
   name: github
   repo: jundi14/myblog
