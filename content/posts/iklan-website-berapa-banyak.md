@@ -1,14 +1,13 @@
 ---
 title: Berapa Banyak Jumlah Iklan Yang Ideal Pada Website?
 slug: Berapa Banyak Jumlah Iklan Yang Ideal
-description: Tidak usah terlalu banyak, utamakan kenyaman saat membaca tulisanmu
-summary: Tidak ada patokan pasti untuk jumlah iklan pada sebuah website, tapi tentu kita tidak menginginkan jumlah iklan yang terlalu banyak dan hingga menutupi artikel. Utamakan konten!
+description: Tidak ada patokan pasti untuk jumlah iklan pada sebuah website, tapi tentu kita tidak menginginkan jumlah iklan yang terlalu banyak dan hingga menutupi artikel. Utamakan konten!
 categories: ["Blogging"]
 date: 2022-12-02
 tags:
 - Iklan
 aliases: "/posts/blogging/berapa-banyak-jumlah-iklan-yang-ideal/"
-showComments: true
+cover: /img/iklan-website-berapa-banyak.jpg
 
 ---
 Sebenarnya tidak ada patokan pasti untuk jumlah iklan dari sebuah website, tapi yang pasti kita tidak menginginkan jumlah iklan yang _bejibun_ hingga menutupi artikel.
