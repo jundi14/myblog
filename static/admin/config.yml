@@ -12,6 +12,8 @@ collections:
     label: 'Blog'
     folder: 'content/posts'
     create: true
+    extension: "md"
+    format: "frontmatter"
     slug: '{{slug}}'
     editor:
       preview: false
