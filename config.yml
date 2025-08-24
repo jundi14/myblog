@@ -11,8 +11,10 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
-    media_folder: static/img/posts/{{slug}}
+    media_folder: ""
+    public_folder: ""
     create: true
+    path: "{{slug}}/index"
     nested:
       depth: 2
       summary: "{{title}}"
