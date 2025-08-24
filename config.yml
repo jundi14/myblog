@@ -13,7 +13,7 @@ collections:
     folder: 'content/posts'
     create: true
     nested:
-      depth: 2          # CMS akan membaca sampai 2 level sub-folder
+      depth: 2 # CMS akan membaca sampai 2 level sub-folder
       summary: "{{title}}"
     extension: "md"
     format: "frontmatter"
