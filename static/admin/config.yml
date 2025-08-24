@@ -13,7 +13,7 @@ collections:
     folder: 'content/posts'
     create: true
     path: '{{slug}}/index'
-    slug: '{{slug}}''
+    slug: '{{slug}}'
     media_folder: ""
     public_folder: ""
     editor:
