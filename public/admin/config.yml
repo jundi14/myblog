@@ -12,7 +12,10 @@ collections:
     label: 'Blog'
     folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{slug}}'
+    path: '{{slug}}/index'
+    slug: '{{slug}}''
+    media_folder: ""
+    public_folder: ""
     editor:
       preview: false
     fields:
@@ -32,8 +35,6 @@ collections:
         }
       - { label: 'Hero Image', name: 'cover', widget: 'image' } 
       - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
-    media_folder: static/img/posts/{{slug}}
-    public_folder: /img/posts/{{slug}}
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
