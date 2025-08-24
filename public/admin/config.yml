@@ -22,8 +22,7 @@ collections:
       - { 
           label: 'Meta Deskripsi', 
           name: 'description', 
-          widget: 'string',  
-          pattern: ["^.{0,160}$", "Deskripsi maksimal 160 karakter"]  
+          widget: 'string'  
         }
       - { 
           name: "comments", 

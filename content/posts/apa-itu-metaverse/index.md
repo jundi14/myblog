@@ -5,10 +5,10 @@ title: "Mengenal Lebih Dekat Metaverse: Pengertian dan Dampaknya"
 date: 2021-12-05
 description: Beberapa waktu lalu CEO facebook mengubah nama Facebook menjadi Meta
 comments: true
-cover: /img/apa-itu-metaverse.jpg
-categories:
-  - Teknologi
+cover: apa-itu-metaverse.jpg
+categories: ["Teknologi"]
 ---
+
 Metaverse dari Facebook sekarang ini menjadi pembicaraan hangat di kalangan netizen. Berbagai beritanya bermunculan. Salah satu dampaknya ya itu juga perubahan logo pada aplikasi WhatsApp atau Instagram ketika dibuka di mana di bawahnya ada tulisan WhatsApp from meta.
 
 Khusus untuk Facebook, memang sekarang ini menjadi media sosial yang banyak digunakan. Sebelumnya, nama induk perusahaannya adalah Facebook Inc. Akan tetapi, beberapa waktu lalu Mark Zuckerberg selaku CEO mengumumkan bahwa Facebook Inc berubah nama menjadi Meta.

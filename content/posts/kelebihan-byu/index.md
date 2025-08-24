@@ -6,9 +6,9 @@ date: 2024-09-05
 description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
   perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang
 comments: true
-cover: /img/kelebihan-byu.jpg
-categories:
-  - Teknologi
+cover: kelebihan-byu.jpg
+categories: ["Teknologi"]
+
 ---
 Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau nggak segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
 
