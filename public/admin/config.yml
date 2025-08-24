@@ -10,8 +10,11 @@ commit_messages:
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/posts/../../'
+    folder: 'content/posts'
     create: true
+    nested:
+      depth: 2          # CMS akan membaca sampai 2 level sub-folder
+      summary: "{{title}}"
     extension: "md"
     format: "frontmatter"
     slug: '{{slug}}'
