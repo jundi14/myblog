@@ -9,17 +9,19 @@ cover: /img/santri-ngapain-aja.jpg
 ---
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
 
+![](/img/posts/santri-di-pondok-ngapain-aja-sih/20250823_115322.jpg)
+
 saya mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri, apa kalian juga pernah nyantri ?
 
-***
+- - -
 
-_“Yaa…saya pernah 3 tahun ditingkat SMA”_
+*“Yaa…saya pernah 3 tahun ditingkat SMA”*
 
-_“Alhamdulillah diberi kesempatan nyantri 6 tahun”_
+*“Alhamdulillah diberi kesempatan nyantri 6 tahun”*
 
-_“Saya belum pernah…tapi penasaran gimana sih keseruan menjadi santri”_
+*“Saya belum pernah…tapi penasaran gimana sih keseruan menjadi santri”*
 
-***
+- - -
 
 Yang pernah menjadi santri bahkan sampai sekarang pun masih duduk di bangku pesantren, pasti punya dong pengalaman seru selama di pesantren?
 
@@ -35,7 +37,7 @@ Contohnya saat saya mau makan nih…
 
 Bel berbunyi 2 kali menandakan bahwa makan sudah tersedia di dapur. Santri berhamburan ke dapur untuk ikut antrian makan.
 
-_“Kenapa sih harus lari-lari segala, santai aja kali”_
+*“Kenapa sih harus lari-lari segala, santai aja kali”*
 
 Mungkin itu yang ada di benak kalian. Mungkin.
 
@@ -91,9 +93,9 @@ Mungkin karena kebanyakan jajan, jadi saat ada kegiatan harus berhutang, karena 
 
 Sulit, tapi harus ada usaha buat menahan diri untuk engga minjem uang seenaknya, kecuali sangat-sangat mendesak.
 
-\+ _“Akhi, antum mau bayar hutang hari ini kan?_  
-_– “Eh afwan, saya ada kebutuhan mendesak nih, bulan depan aja gpp kan.? hehe..”_  
-\+ _“Ouh gtu..Oke deh gpp…@><#$%&& :)”_
++ *“Akhi, antum mau bayar hutang hari ini kan?*\
+*– “Eh afwan, saya ada kebutuhan mendesak nih, bulan depan aja gpp kan.? hehe..”*\
++ *“Ouh gtu..Oke deh gpp…@><#$%&& :)”*
 
 Rada sedikit kesel sih sama temen yang suka ngaret kalau bayar hutang 🙂 Kecuali kalau dia ada kebutuhan yang mendesak jadi yaa mau gimana lagi, sabar aja.
 
@@ -123,7 +125,7 @@ Engga perlu lagi ngantri buat isi ember di aliran air yang kecil.
 
 By the way, pesantrenku mulai menggunakan air PDAM di tahun 2014 akhir.
 
-***
+- - -
 
 Sebelum menggunakan PDAM, kami mengalirkan air dari sungai yang letaknya tidak jauh dari pondokku berada.
 
@@ -159,7 +161,7 @@ Kuku dipotong pendek rapi, rambut engga boleh panjang apalagi diwarnai.
 
 Dilarang menggunakan pakaian bergambar makhluk hidup atau tulisan-tulisan “sayah”, celana pun tidak boleh terlalu ketat.
 
-Apalagi gadget, sangat terlarang disini.  
+Apalagi gadget, sangat terlarang disini.\
 Terkecuali penggunaan laptop.
 
 Keluar pondok 2 pekan sekali. Kecuali ada keperluan penting tertentu.
@@ -172,7 +174,7 @@ Tapi…
 
 Karena ini pesantren maka wajar saja peraturan disini ‘bejibun’, toh pesantren sudah diamanahi untuk mendidik anak-anak dari orang tua yang sudah mempercayai lembaga berbasis pesantren ini, tentunya tanpa mengesampingkan pendidikan dari orang tuanya.
 
-Peraturan yang sedemikian banyak diharapkan bisa membantu dan mengarahkan para santri untuk menjadi lebih baik, tentunya dengan kehendak dari Allah _subhanahuwata’ala_.
+Peraturan yang sedemikian banyak diharapkan bisa membantu dan mengarahkan para santri untuk menjadi lebih baik, tentunya dengan kehendak dari Allah *subhanahuwata’ala*.
 
 Karena manusia yang membuat peraturan, perlu ada evaluasi, karena pasti ada kecacatan di dalam peraturan tersebut.
 
@@ -182,7 +184,7 @@ Saat pertama kali saya datang ke pondok ini lalu terdengar desingan bel seperti 
 
 Setengah lucu plus heran
 
-_“suara apaan sih, lucu banget”_ benakku. Saat pertama kali masuk pesantren.
+*“suara apaan sih, lucu banget”* benakku. Saat pertama kali masuk pesantren.
 
 Setengah jam dan seperempat jam sebelum salat, bahkan menjelang adzan, bel berbunyi. Memberi kabar ke seluruh santri bahwa waktu sholat semakin dekat.
 
@@ -236,6 +238,6 @@ Kenapa seperti itu? agar dimanapun dan kapanpun kita bisa menggunakan berbahasa 
 
 Hati-hati… kalau kamu menggunakan bahasa daerah, Sunda atau Jawa dsb, maka hukuman akan lebih berat.
 
-***
+- - -
 
 Kalau mau menambahkan pengalaman kamu saat nyantri atau mau bertanya, silahkan lewat kolom komentar yaa 🙂
