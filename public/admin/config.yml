@@ -13,8 +13,6 @@ collections:
     folder: 'content/posts'
     create: true
     slug: '{{slug}}'
-    media_folder: ""
-    public_folder: ""
     editor:
       preview: false
     fields:
