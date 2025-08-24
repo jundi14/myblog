@@ -10,7 +10,7 @@ commit_messages:
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/posts/../*.md'
+    folder: 'content/posts/../index.md'
     create: true
     slug: '{{slug}}'
     editor:
