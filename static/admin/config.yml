@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jundi14/myblog
 media_folder: static/img/
-public_folder: public
+public_folder: /img
 commit_messages:
   create: Create {{collection}} “{{slug}}”
   update: Update {{collection}} “{{slug}}”
@@ -33,7 +33,7 @@ collections:
       - { label: 'Hero Image', name: 'cover', widget: 'image' } 
       - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
     media_folder: static/img/posts/
-    public_folder: public
+    public_folder: /img/posts/
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
