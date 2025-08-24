@@ -1,16 +1,18 @@
 ---
 draft: false
-slug: kartu byu aktif tanpa batas
 title: 7 Kelebihan Kartu by.U Yang Memiliki Masa Aktif Tanpa Batas
+slug: kartu byu aktif tanpa batas
 date: 2024-09-05
 description: Kartu by.U memiliki masa aktif tanpa batas yang masih dalam naungan
   perusahaan provider senior yaitu telkomsel, memiliki ekosistem yang
 comments: true
 cover: kelebihan-byu.jpg
-categories: ["Teknologi"]
-
+categories:
+  - Teknologi
 ---
 Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa atau kuota merupakan "nafas"nya masa aktif, kalau nggak segera diisi dalam jangka waktu tertentu, bisa terblokir dan harus menunggu sampai 1 tahun hingga nomor diaktifkan kembali oleh pihak provider.
+
+![](/img/kantor-guru.jpg)
 
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
