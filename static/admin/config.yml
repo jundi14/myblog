@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: jundi14/myblog
-media_folder: static/img
-public_folder: /img
+media_folder: ""
+public_folder: ""
 commit_messages:
   create: Create {{collection}} “{{slug}}”
   update: Update {{collection}} “{{slug}}”
