@@ -11,7 +11,7 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
-    media_folder: ""
+    media_folder: "{{slug}}"
     public_folder: ""
     create: true
     slug: '{{slug}}'    
@@ -21,7 +21,6 @@ collections:
     nested:
       depth: 2
       summary: "{{title}}"
-
     editor:
       preview: false
     fields:
@@ -36,7 +35,9 @@ collections:
       - { 
           name: "comments", 
           label: "Aktifkan Komentar", 
-          widget: "boolean"
+          widget: "boolean",
+          required: "false",
+          default: true
         }
       - { label: 'Cover', name: 'cover', widget: 'image' } 
       - { label: 'Tulisan', name: 'body', widget: 'markdown' }
