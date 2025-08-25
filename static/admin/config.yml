@@ -33,7 +33,7 @@ collections:
           widget: 'string'  
         }
       - { label: 'Cover', name: 'cover', widget: 'image', media_folder: "", public_folder: "" } 
-      - { label: 'Tulisan', name: 'body', widget: 'markdown' }
+      - { label: 'Tulisan', name: 'body', widget: 'markdown', media_folder: "images", public_folder: "images" }
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
@@ -44,5 +44,5 @@ collections:
     fields:
       - { label: 'Judul Halaman', name: 'title', widget: 'string' }
       - { label: 'Meta Deskripsi', name: 'description', widget: 'string' }
-      - { label: 'Isi Artikel', name: 'body', widget: 'markdown', media_folder: "images", public_folder: "images" }
+      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
     
