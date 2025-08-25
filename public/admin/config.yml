@@ -11,13 +11,17 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/posts'
+    media_folder: ""
+    public_folder: ""
     create: true
-    nested:
-      depth: 2 # CMS akan membaca sampai 2 level sub-folder
-      summary: "{{title}}"
+    slug: '{{slug}}'    
+    path: "{{slug}}/index"
     extension: "md"
     format: "frontmatter"
-    slug: '{{slug}}'
+    nested:
+      depth: 2
+      summary: "{{title}}"
+
     editor:
       preview: false
     fields:
@@ -34,8 +38,8 @@ collections:
           label: "Aktifkan Komentar", 
           widget: "boolean"
         }
-      - { label: 'Hero Image', name: 'cover', widget: 'image' } 
-      - { label: 'Isi Artikel', name: 'body', widget: 'markdown' }
+      - { label: 'Cover', name: 'cover', widget: 'image' } 
+      - { label: 'Tulisan', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
