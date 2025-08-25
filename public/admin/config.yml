@@ -32,12 +32,6 @@ collections:
           name: 'description', 
           widget: 'string'  
         }
-      - { 
-          name: "comments", 
-          label: "Aktifkan Komentar", 
-          widget: "boolean",
-          required: "false"
-        }
       - { label: 'Cover', name: 'cover', widget: 'image' } 
       - { label: 'Tulisan', name: 'body', widget: 'markdown' }
   - name: 'pages'
