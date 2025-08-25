@@ -20,8 +20,6 @@ Jika belum mengetahuinya, maka Anda sudah berada di tempat yang tepat.
 
 Sebab, dalam artikel ini akan dibahas lebih lanjut tentang NFT yang meliputi pengertian, kegunaan, kelebihan, hingga kekurangannya. Oleh sebab itu, simak artikel ini hingga tuntas untuk mendapatkan informasinya secara lengkap.
 
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
-
 ## Apa Itu NFT (Non-Fungible Token) ?
 
 Setelah membaca pengantar singkat sebelumnya, mudah saja bagi Anda untuk mengira bahwa NFT ini adalah mata uang kripto layaknya bitcoin, ethereum, litecoin, ripple, dan lainnya.
@@ -51,8 +49,6 @@ Dengan demikian, kita dapat mengetahui beberapa informasi penting seperti penerb
 Meskipun teknologi NFT ini tidak dapat mencegah seseorang untuk memiliki salinan yang berasal dari aset digital NFT, namun tetap ada faktor pembedanya. NFT memiliki kode unik, sehingga dapat menjadikannya sebagai bukti sah kepemilikan.
 
 Oleh karena itu, **NFT (_Non-Fungible Token_)** dapat digunakan sebagai pilihan efektif terhadap aset yang bersifat _collectible._ Selain itu, NFT juga dapat digunakan untuk upaya pemberantasan terhadap sebuah praktik pembajakan
-
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 ## Kelebihan NFT (Non-Fungible Token)
 
@@ -105,5 +101,3 @@ Apabila Anda memang tertarik untuk membeli NFT, maka ada hal-hal yang perlu Anda
 Itulah tadi hal-hal yang perlu Anda ketahui tentang NFT **(_Non-Fungible Token_**), yang mana diketahui cukup populer dan ramai diperbincangkan belakangan ini.
 
 Semoga dengan adanya informasi seputar pengertian, kegunaan, kelebihan dan kekurangan NFT tadi dapat membantu Anda menemukan informasi yang akurat tentang NFT.
-
-(adsbygoogle = window.adsbygoogle || \[\]).push({});

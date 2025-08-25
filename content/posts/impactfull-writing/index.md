@@ -17,8 +17,6 @@ Mengutip dari [mayoclinic](https://www.mayoclinic.org/healthy-lifestyle/stress-m
 
 > Berpikir positif bukan berarti kita mengabaikan situasi hidup yang kurang menyenangkan. Berpikir positif berarti bahwa kita mendekati ketidaknyamanan dengan cara yang lebih positif dan produktif, berpikir bahwa yang terbaik akan terjadi, bukan yang terburuk.
 
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
-
 Pola pikir juga berkaitan erat dengan prasangka kita, saat prasangka kita sering positif maka pola pikir kita juga akan positif. Pada akhirnya akan menjadi karakter dan kepribadian kita.
 
 Ada 3 tips yang bisa kita lakukan untuk menumbuhkan pola pikir yang positif:
@@ -61,8 +59,6 @@ Setiap hari kita melakukan yang namanya _self-talk_, cara kita berbicara kepada 
 Self talk ini bisa berimbas kepada pikiran sadar kita, bahkan bisa menjadi kenyataan karena self talk yang kita lakukan.
 
 Nah, karena self-talk ini begitu berpengaruh kepada pikiran sadar, maka kita perlu mengurangi self talk yang bersifat negatif dan memulai untuk mencoba self-talk yang positif atau afirmasi.
-
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
 
 Dilansir dari [kabar24 bisnis](https://kabar24.bisnis.com/read/20230918/79/1696111/apa-itu-afirmasi-pengertian-manfaat-dan-contoh-kalimat-afirmasi)
 
