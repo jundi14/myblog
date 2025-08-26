@@ -32,8 +32,8 @@ collections:
           name: 'description', 
           widget: 'string'  
         }
-      - { label: 'Cover', name: 'cover', widget: 'image' } 
-      - { label: 'Tulisan', name: 'body', widget: 'markdown' }
+      - { label: 'Cover', name: 'cover', widget: 'image', media_folder: "", public_folder: "" } 
+      - { label: 'Tulisan', name: 'body', widget: 'markdown', media_folder: "images", public_folder: "images" }
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
