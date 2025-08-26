@@ -8,3 +8,5 @@ cover: screenshot-2025-08-15-213456.png
 dfsgsdf
 
 ![](screenshot-2025-08-17-193411.png)
+
+![](screenshot-2025-08-17-193411.png)
