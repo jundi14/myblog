@@ -14,7 +14,7 @@ Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa 
 
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
-![](by.u.jpg)
+![](img/posts/by.u.jpg)
 
 Sama seperti halnya M-BCA dengan Blu BCA, masih satu perusahaan tapi untuk target yang berbeda. M-BCA menampilkan fitur yang sering digunakan dan sederhana dan Blu BCA dengan fitur kekinian dan modern.
 
@@ -61,7 +61,7 @@ Jadi ngga perlu khawatir nomor akan hangus dalam jangka waktu tertentu, kecuali 
 
 Kartu sim by.U ini nggak punya yang namanya pembagian kuota lokal dan nasional, atau kuota malam dan siang.
 
-![Kuota 24 Jam by.U](kuota-24-jam.jpg "Kuota 24 Jam Tanpa Pembagian")
+![Kuota 24 Jam by.U](img/posts/kuota-24-jam.jpg "Kuota 24 Jam Tanpa Pembagian")
 
 Jadi semua kuotanya 24 jam.\
 Kalau untuk harga relatif, mau dibandingkan dengan apa dulu, kalau dibandingkan dengan telkomsel, jauh lebih murah.
