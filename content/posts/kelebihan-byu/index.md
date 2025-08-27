@@ -14,7 +14,7 @@ Kartu sim telkomsel saya terblokir karena tidak diisi kuota maupun pulsa, pulsa 
 
 Akhirnya saya memutuskan untuk migrasi menggunakan kartu sim by.U. Masih dalam naungan perusahaan yang sama dengan Telkomsel, perbedaannya tampilan aplikasi by.U ini cocok untuk kawula muda dan pilihan paket internet yang berbeda pula pastinya.
 
-![](images/by.u.jpg)
+![](img/posts/by.u.jpg)
 
 Sama seperti halnya M-BCA dengan Blu BCA, masih satu perusahaan tapi untuk target yang berbeda. M-BCA menampilkan fitur yang sering digunakan dan sederhana dan Blu BCA dengan fitur kekinian dan modern.
 
