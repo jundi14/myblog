@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jundi14/myblog
 media_folder: static/img
-public_folder: public
+public_folder: img
 commit_messages:
   create: Create {{collection}} “{{slug}}”
   update: Update {{collection}} “{{slug}}”
@@ -22,7 +22,7 @@ collections:
       depth: 2
       summary: "{{title}}"
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Judul Artikel', name: 'title', widget: 'string' }
       - { label: 'slug', name: 'slug', widget: 'string' }
@@ -32,8 +32,8 @@ collections:
           name: 'description', 
           widget: 'string'  
         }
-      - { label: 'Cover', name: 'cover', widget: 'image', media_folder: "", public_folder: "" } 
-      - { label: 'Tulisan', name: 'body', widget: 'markdown', media_folder: "images", public_folder: "images" }
+      - { label: 'Cover', name: 'cover', widget: 'image' } 
+      - { label: 'Tulisan', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
